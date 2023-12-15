@@ -1,5 +1,5 @@
 name: TVHeadend
-version: d527dbe
+version: a6bebfc
 stage: experimental
 slug: tvheadend
 description: TV streaming server and recorder.

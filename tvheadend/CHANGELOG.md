@@ -1,4 +1,11 @@
 # Changelog since v3.1.0
+- Merge pull request #27 from dfigus/update-docs
+
+Update docs 
+- Fix link II 
+- Fix link 
+- Prettified Code! 
+- Update Docs 
 - Merge pull request #26 from dfigus/fix-deploy-workflow
 
 Fix deploy workflow 
