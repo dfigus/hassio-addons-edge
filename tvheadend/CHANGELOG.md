@@ -1,4 +1,8 @@
 # Changelog since v3.1.0
+- Merge pull request #28 from dfigus/update-docs
+
+Update License 
+- Update License 
 - Merge pull request #27 from dfigus/update-docs
 
 Update docs 
