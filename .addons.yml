@@ -1,0 +1,7 @@
+---
+channel: edge
+addons:
+  tvheadend:
+    repository: dfigus/addon-tvheadend
+    target: tvheadend
+    image: ghcr.io/dfigus/tvheadend/{arch}
