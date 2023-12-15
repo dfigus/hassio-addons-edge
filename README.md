@@ -39,6 +39,19 @@ https://github.com/dfigus/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [TVHeadend][addon-tvheadend]
+
+![Latest Version][tvheadend-version-shield]
+![Supports armhf Architecture][tvheadend-armhf-shield]
+![Supports armv7 Architecture][tvheadend-armv7-shield]
+![Supports aarch64 Architecture][tvheadend-aarch64-shield]
+![Supports amd64 Architecture][tvheadend-amd64-shield]
+![Supports i386 Architecture][tvheadend-i386-shield]
+
+TV streaming server and recorder.
+
+[:books: TVHeadend add-on documentation][addon-doc-tvheadend]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -60,6 +73,7 @@ You have several options to get them answered:
  separate GitHub repository for each add-on. Please ensure you are creating
  the issue on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: TVHeadend][tvheadend-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -97,6 +111,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/d527dbe
+[addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/d527dbe/README.md
+[tvheadend-issue]: https://github.com/dfigus/addon-tvheadend/issues
+[tvheadend-version-shield]: https://img.shields.io/badge/version-d527dbe-blue.svg
+[tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [dfigus]: https://github.com/dfigus
 [issue]: https://github.com/dfigus/hassio-addons-edge/issues
 [license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons-edge.svg
