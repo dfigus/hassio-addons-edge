@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆️ Update streamlink to v6.5.0 
 - Merge pull request #28 from dfigus/update-docs
 
 Update License 
