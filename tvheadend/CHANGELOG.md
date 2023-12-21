@@ -1,4 +1,16 @@
 # Changelog since v3.1.0
+- Merge pull request #22 from dfigus/compile-tvheadend
+
+Compile latest tvheadend version from source 
+- Pin to tvheadend commit per default 
+- Switch to Addons Config and Recordings in share 
+- Switch to addon_config 
+- Fix devcontainer warnings 
+- Fix incorrect hadolint ignore - should be SC2169 
+- Ignore SC2187 hadolint rule
+Incorectly detects ash as dash shell 
+- Fix lint and build errors 
+- Compile TVHeadend from source in separate build stage 
 - ⬆️ Update streamlink to v6.5.0 
 - Merge pull request #28 from dfigus/update-docs
 
