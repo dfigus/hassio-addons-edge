@@ -1,4 +1,8 @@
 # Changelog since v3.1.0
+- Merge pull request #31 from dfigus/doc
+
+Update doc 
+- Update doc 
 - ⬆️ Update alpine Docker tag to v3.19 
 - Merge pull request #22 from dfigus/compile-tvheadend
 
