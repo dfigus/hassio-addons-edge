@@ -1,5 +1,5 @@
 name: TVHeadend
-version: b052101
+version: 789f9ed
 stage: experimental
 slug: tvheadend
 description: TV streaming server and recorder.

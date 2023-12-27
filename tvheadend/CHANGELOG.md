@@ -1,4 +1,6 @@
 # Changelog since v4.0.0
+- Merge pull request #37 from dfigus/dfigus-patch-1 
+- Fix renovate for picons 
 - Merge pull request #35 from dfigus/renovate/add-on-base-image 
 - Merge pull request #36 from dfigus/add-picons 
 - Configure renovate bot for picons 
