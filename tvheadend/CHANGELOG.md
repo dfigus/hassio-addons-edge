@@ -1,4 +1,9 @@
 # Changelog since v4.0.0
+- Merge pull request #36 from dfigus/add-picons 
+- Configure renovate bot for picons 
+- Switch to -C for tar 
+- Fix hadolint error 
+- Add PICONS 
 - Merge pull request #33 from dfigus/renovate/tvheadend-digest 
 - ⬆️ Update tvheadend digest to fd8b9e8 
 - Merge pull request #34 from dfigus/renovate-for-tvheadend
