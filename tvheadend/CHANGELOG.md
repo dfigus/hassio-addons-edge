@@ -1,4 +1,6 @@
 # Changelog since v4.0.0
+- Merge pull request #33 from dfigus/renovate/tvheadend-digest 
+- ⬆️ Update tvheadend digest to fd8b9e8 
 - Merge pull request #34 from dfigus/renovate-for-tvheadend
 
 Fix renovate REGEX for TVHeadend 
