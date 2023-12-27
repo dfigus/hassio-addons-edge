@@ -1,8 +1,10 @@
 # Changelog since v4.0.0
+- Merge pull request #35 from dfigus/renovate/add-on-base-image 
 - Merge pull request #36 from dfigus/add-picons 
 - Configure renovate bot for picons 
 - Switch to -C for tar 
 - Fix hadolint error 
+- ⬆️ Update Add-on base image to v15.0.3 
 - Add PICONS 
 - Merge pull request #33 from dfigus/renovate/tvheadend-digest 
 - ⬆️ Update tvheadend digest to fd8b9e8 
