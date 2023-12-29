@@ -1,5 +1,13 @@
 # Changelog since v4.0.0
+- ⬆️ Update comskip digest to 6e66de5 (#43) 
+- ⬆️ Update comskip digest to 6e66de5 
+- Pin comskip to commit and enable renovate (#42)
+
+# Proposed Changes
+
+Pin comskip and enable renovate for it 
 - ⬆️ Update picons/picons to v2023-12-22--22-32-19 (#41) 
+- Pin comskip to commit and enable renovate 
 - ⬆️ Update picons/picons to v2023-12-22--22-32-19 
 - Renovate for picons III (#40)
 
