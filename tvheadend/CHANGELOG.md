@@ -1,4 +1,10 @@
 # Changelog since v4.0.0
+- Renovate for picons III (#40)
+
+# Proposed Changes
+
+Renovate for picons III - set loose versioning for picons 
+- Renovate for picons III 
 - Merge pull request #38 from dfigus/dfigus-patch-1 
 - Picons & renovate II 
 - Merge pull request #37 from dfigus/dfigus-patch-1 
