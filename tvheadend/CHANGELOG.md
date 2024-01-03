@@ -1,9 +1,5 @@
-# Changelog since v4.1.0
-- ⬆️ Update tvheadend digest to b40a62b (#47) 
-- ⬆️ Update tvheadend digest to b40a62b 
-- ⬆️ Update picons/picons to v2023-12-30--17-32-25 (#45)
+## What’s changed
 
-⬆️ Update picons/picons to v2023-12-30--17-32-25 
-- ⬆️ Update picons/picons to v2023-12-30--17-32-25 
-- ⬆️ Update comskip digest to 109b5d1 (#44) 
-- ⬆️ Update comskip digest to 109b5d1 
+## 🐛 Bug fixes
+
+- Patch tvheadend cookie handling @dfigus (#48) to address (#46)
