@@ -1,5 +1,3 @@
-## What’s changed
-
-## 🐛 Bug fixes
-
-- Patch tvheadend cookie handling @dfigus (#48) to address (#46)
+# Changelog since v4.1.2
+- ⬆️ Update tvheadend digest to 2151348 (#49) 
+- ⬆️ Update tvheadend digest to 2151348 
