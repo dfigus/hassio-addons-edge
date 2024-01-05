@@ -1,4 +1,7 @@
 # Changelog since v4.1.2
+- ⬆️: migrate renovate config (#52) 
+- Prettified Code! 
+- ⬆️: migrate config renovate.json 
 - Enable renovate config migration PRs (#51) 
 - Enable renovate config migration PRs 
 - Set min release age for picons (#50) 
