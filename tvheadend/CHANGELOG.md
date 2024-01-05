@@ -1,4 +1,6 @@
 # Changelog since v4.1.2
+- Enable renovate config migration PRs (#51) 
+- Enable renovate config migration PRs 
 - Set min release age for picons (#50) 
 - Set min release age for picons
 Picons packages appear after an hour or so on the release. This stops
