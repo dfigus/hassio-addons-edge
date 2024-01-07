@@ -1,4 +1,6 @@
 # Changelog since v4.1.2
+- Merge pull request #53 from dfigus/improve-doc 
+- Add comskip and picons doc & general improvements 
 - ⬆️: migrate renovate config (#52) 
 - Prettified Code! 
 - ⬆️: migrate config renovate.json 
