@@ -1,4 +1,8 @@
 # Changelog since v4.1.2
+- Merge pull request #54 from dfigus/renovate/picons-picons-2024.x
+
+⬆️ Update picons/picons to v2024 
+- ⬆️ Update picons/picons to v2024 
 - Merge pull request #53 from dfigus/improve-doc 
 - Add comskip and picons doc & general improvements 
 - ⬆️: migrate renovate config (#52) 

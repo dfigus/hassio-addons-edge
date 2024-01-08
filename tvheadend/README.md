@@ -22,5 +22,5 @@ Have included the following along with TVHeadend:
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-bc4dd6d-blue.svg
-[release]: https://github.com/dfigus/addon-tvheadend/tree/bc4dd6d
+[release-shield]: https://img.shields.io/badge/version-0675cc8-blue.svg
+[release]: https://github.com/dfigus/addon-tvheadend/tree/0675cc8
