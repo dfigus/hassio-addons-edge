@@ -1,4 +1,6 @@
 # Changelog since v4.1.3
+- Merge pull request #57 from dfigus/update-readme-template 
+- Update Readme Template 
 - Merge pull request #56 from dfigus/renovate/tvheadend-digest 
 - ⬆️ Update tvheadend digest to c9b38a8 
 - Merge pull request #55 from dfigus/renovate/add-on-base-image
