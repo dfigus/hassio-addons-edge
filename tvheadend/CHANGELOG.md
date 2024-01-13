@@ -1,11 +1,3 @@
-# Changelog since v4.1.3
-- Merge pull request #58 from dfigus/update-docs 
-- Update image links in DOCS to work from addon repos 
-- Merge pull request #57 from dfigus/update-readme-template 
-- Update Readme Template 
-- Merge pull request #56 from dfigus/renovate/tvheadend-digest 
-- ⬆️ Update tvheadend digest to c9b38a8 
-- Merge pull request #55 from dfigus/renovate/add-on-base-image
-
-⬆️ Update Add-on base image to v15.0.4 
-- ⬆️ Update Add-on base image to v15.0.4 
+# Changelog since v4.1.4
+- Merge pull request #59 from dfigus/set-stage-stable 
+- Remove stage experimental 
