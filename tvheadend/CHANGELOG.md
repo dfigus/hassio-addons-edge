@@ -1,4 +1,6 @@
 # Changelog since v4.1.3
+- Merge pull request #58 from dfigus/update-docs 
+- Update image links in DOCS to work from addon repos 
 - Merge pull request #57 from dfigus/update-readme-template 
 - Update Readme Template 
 - Merge pull request #56 from dfigus/renovate/tvheadend-digest 
