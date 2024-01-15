@@ -1,4 +1,8 @@
 # Changelog since v4.1.4
+- Merge pull request #62 from dfigus/renovate/picons-picons-2024.x
+
+⬆️ Update picons/picons to v2024-01-11--21-19-56 
+- ⬆️ Update picons/picons to v2024-01-11--21-19-56 
 - Merge pull request #61 from dfigus/use-media-folder-for-recording 
 - Switch recordings folder to media 
 - Merge pull request #60 from dfigus/remove-build-latest-tvheadend-commit
