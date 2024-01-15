@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 35049c5
+version: e2215c6
 slug: tvheadend
 description: TV streaming server and recorder.
 url: https://github.com/dfigus/addon-tvheadend
@@ -31,10 +31,12 @@ options:
   system_packages: []
   init_commands: []
   args: ''
+  comskip_ini: ''
 schema:
   system_packages:
-  - str
+  - str?
   init_commands:
-  - str
-  args: str
+  - str?
+  args: str?
+  comskip_ini: str?
 image: ghcr.io/dfigus/tvheadend/{arch}

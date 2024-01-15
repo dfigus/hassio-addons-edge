@@ -1,4 +1,12 @@
 # Changelog since v4.1.4
+- Merge pull request #65 from dfigus/comskip-ini-config
+
+Comskip ini config 
+- Update DOCS for comskip_ini config option 
+- Switch all config options to optional 
+- Add translations for config options 
+- Add Comskip ini as config option
+The comskip.ini will be stored in /config/tvheadend/comskip/comskip.ini 
 - Merge pull request #64 from dfigus/nginx-allow-only-from-haos
 
 NGINX security enhancements 
