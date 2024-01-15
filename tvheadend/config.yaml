@@ -1,11 +1,10 @@
 name: TVHeadend
-version: 3a4d44c
+version: 35049c5
 slug: tvheadend
 description: TV streaming server and recorder.
 url: https://github.com/dfigus/addon-tvheadend
 ingress: true
 ingress_stream: true
-ingress_port: 80
 init: false
 panel_icon: mdi:television
 arch:

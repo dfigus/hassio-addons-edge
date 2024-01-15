@@ -1,4 +1,11 @@
 # Changelog since v4.1.4
+- Merge pull request #64 from dfigus/nginx-allow-only-from-haos
+
+NGINX security enhancements 
+- NGINX Listen on default ingress port 8099 
+- NGINX accept only connections from haos
+Only allow inbound NGINX connections from the HAOS ingress ip
+172.30.32.2 and disable listening on IPv6. 
 - Merge pull request #63 from dfigus/picons-regex-versioning
 
 Define regex versioning for picons releases 
