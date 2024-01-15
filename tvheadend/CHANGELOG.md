@@ -1,4 +1,8 @@
 # Changelog since v4.1.4
+- Merge pull request #63 from dfigus/picons-regex-versioning
+
+Define regex versioning for picons releases 
+- Define regex versioning for picons releases 
 - Merge pull request #62 from dfigus/renovate/picons-picons-2024.x
 
 ⬆️ Update picons/picons to v2024-01-11--21-19-56 
