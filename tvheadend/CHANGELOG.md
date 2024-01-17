@@ -1,4 +1,8 @@
 # Changelog since v4.2.0
+- Merge pull request #70 from dfigus/fix-long-line-translations
+
+Fix long line in translations 
+- Fix long line in translations 
 - Merge pull request #67 from dfigus/renovate/streamlink-6.x
 
 ⬆️ Update streamlink to v6.5.1 
