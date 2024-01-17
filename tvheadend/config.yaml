@@ -1,5 +1,5 @@
 name: TVHeadend
-version: f1e9afe
+version: 9edbeed
 slug: tvheadend
 description: TV streaming server and recorder.
 url: https://github.com/dfigus/addon-tvheadend
@@ -17,6 +17,8 @@ host_network: true
 devices:
 - /dev/dvb
 - /dev/dri
+- /dev/vcsm-cma
+- /dev/vchiq
 ports:
   9981/tcp: 9981
   9982/tcp: 9982
