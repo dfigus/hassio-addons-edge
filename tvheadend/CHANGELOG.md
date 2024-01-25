@@ -1,4 +1,8 @@
 # Changelog since v4.2.1
+- Merge pull request #74 from dfigus/renovate/alpine_3_19-zlib-1.x
+
+⬆️ Update alpine_3_19/zlib to v1.3.1-r0 
+- ⬆️ Update alpine_3_19/zlib to v1.3.1-r0 
 - Merge pull request #75 from dfigus/improve-renovate-config
 
 Improve Renovate Config 
