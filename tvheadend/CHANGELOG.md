@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Update picons/picons to v2024-01-21--00-20-09 
 - ⬆️ Update tvheadend digest to 7b76233 
 - Merge pull request #74 from dfigus/renovate/alpine_3_19-zlib-1.x
 
