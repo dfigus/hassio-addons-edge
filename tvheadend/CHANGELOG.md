@@ -1,4 +1,5 @@
 # Changelog since v4.2.2
+- ⬆️ Update tvheadend digest to 6229a74 
 - ⬆️ Update tvheadend digest to 212e85c 
 - ⬆️ Update picons/picons to v2024-01-27--22-40-17 
 - Merge pull request #80 from dfigus/nginx-only-error-logging
