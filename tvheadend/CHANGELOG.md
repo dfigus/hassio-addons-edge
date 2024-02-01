@@ -1,4 +1,5 @@
 # Changelog since v4.2.2
+- ⬆️ Update Add-on base image to v15.0.6 
 - Merge pull request #87 from dfigus/renovate/alpine_3_19-nginx-1.x
 
 ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
