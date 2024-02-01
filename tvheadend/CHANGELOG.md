@@ -1,4 +1,8 @@
 # Changelog since v4.2.2
+- Merge pull request #88 from dfigus/renovate-automerge-repology
+
+Automerge for repology packages 
+- Automerge for repology packages 
 - ⬆️ Update Add-on base image to v15.0.6 
 - Merge pull request #87 from dfigus/renovate/alpine_3_19-nginx-1.x
 
