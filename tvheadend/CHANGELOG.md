@@ -1,4 +1,8 @@
 # Changelog since v4.2.2
+- Merge pull request #87 from dfigus/renovate/alpine_3_19-nginx-1.x
+
+⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
 - ⬆️ Update tvheadend digest to 717056b 
 - ⬆️ Update tvheadend digest to bcfbe7d 
 - ⬆️ Update tvheadend digest to 6229a74 
