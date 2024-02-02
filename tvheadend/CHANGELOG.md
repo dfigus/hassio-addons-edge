@@ -1,4 +1,5 @@
 # Changelog since v4.2.2
+- ⬆️ Update tvheadend digest to c7f46ec 
 - Merge pull request #88 from dfigus/renovate-automerge-repology
 
 Automerge for repology packages 
