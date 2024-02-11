@@ -1,4 +1,5 @@
 # Changelog since v5.0.0
+- ⬆️ Update tvheadend digest to ce429ef 
 - ⬆️ Update tvheadend digest to a2ddd30 
 - ⬆️ Update tvheadend digest to b915870 
 - ⬆️ Update tvheadend digest to 8bd13ca 
