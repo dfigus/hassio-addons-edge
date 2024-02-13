@@ -1,4 +1,5 @@
 # Changelog since v5.0.0
+- ⬆️ Update Add-on base image to v15.0.7 
 - ⬆️ Update setuptools to v69.1.0 
 - ⬆️ Update picons/picons to v2024-02-10--23-31-45 
 - ⬆️ Update tvheadend digest to 6b5defc 
