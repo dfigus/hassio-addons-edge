@@ -1,4 +1,8 @@
 # Changelog since v5.0.1
+- Merge pull request #110 from dfigus/improve-issue-template
+
+Improve issue template 
+- Improve issue template 
 - Merge pull request #108 from dfigus/dvb-adapter-device-mapping
 
 Try to map the dvb devices directly in the config.yaml 
