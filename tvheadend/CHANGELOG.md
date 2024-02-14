@@ -1,12 +1,10 @@
-# Changelog since v5.0.0
-- ⬆️ Update Add-on base image to v15.0.7 
-- ⬆️ Update setuptools to v69.1.0 
-- ⬆️ Update picons/picons to v2024-02-10--23-31-45 
-- ⬆️ Update tvheadend digest to 6b5defc 
-- ⬆️ Update tvheadend digest to ce429ef 
-- ⬆️ Update tvheadend digest to a2ddd30 
-- ⬆️ Update tvheadend digest to b915870 
-- ⬆️ Update tvheadend digest to 8bd13ca 
-- ⬆️ Update tvheadend digest to 63c41ac 
-- ⬆️ Update tvheadend digest to 6409a63 
-- ⬆️ Update tvheadend digest to 154cf25 
+# Changelog since v5.0.1
+- Merge pull request #108 from dfigus/dvb-adapter-device-mapping
+
+Try to map the dvb devices directly in the config.yaml 
+- Merge pull request #105 from dfigus/renovate/alpine_3_19-libxml2-2.x
+
+⬆️ Update alpine_3_19/libxml2 to v2.11.7-r0 
+- Update libxml2-dev as well 
+- Try to map the dvb devices directly in the config.yaml 
+- ⬆️ Update alpine_3_19/libxml2 to v2.11.7-r0 
