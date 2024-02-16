@@ -1,4 +1,8 @@
 # Changelog since v5.0.1
+- Merge pull request #114 from dfigus/add-github-markdown-devcontainer
+
+Add markdown extension to devcontainer.json 
+- Add markdown extension to devcontainer.json 
 - Merge pull request #113 from dfigus/more-dvb-adapters
 
 Add more dvb adapters 
