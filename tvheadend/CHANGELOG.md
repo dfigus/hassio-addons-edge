@@ -1,4 +1,5 @@
 # Changelog since v5.0.1
+- ⬆️ Update streamlink to v6.6.0 
 - Merge pull request #114 from dfigus/add-github-markdown-devcontainer
 
 Add markdown extension to devcontainer.json 
