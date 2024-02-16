@@ -1,4 +1,8 @@
 # Changelog since v5.0.1
+- Merge pull request #113 from dfigus/more-dvb-adapters
+
+Add more dvb adapters 
+- Add more dvb adapters 
 - ⬆️ Update tvheadend digest to 4c1a1d2 
 - Merge pull request #110 from dfigus/improve-issue-template
 
