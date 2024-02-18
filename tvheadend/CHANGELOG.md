@@ -1,4 +1,5 @@
 # Changelog since v5.0.1
+- ⬆️ Update tvheadend digest to 757eaa9 
 - ⬆️ Update streamlink to v6.6.1 
 - ⬆️ Update tvheadend digest to d85be49 
 - ⬆️ Update tvheadend digest to ccb8b5e 
