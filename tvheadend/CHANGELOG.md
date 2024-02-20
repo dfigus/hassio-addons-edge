@@ -1,2 +1,7 @@
 # Changelog since v5.0.2
+- Merge pull request #130 from dfigus/renovate/alpine_3_19-python3-dev-3.x
+
+⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 
+- Update python to 3.11.8-r0 
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 
 - ⬆️ Update alpine_3_19/mesa-va-gallium to v23.3.6-r0 
