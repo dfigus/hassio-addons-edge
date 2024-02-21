@@ -1,4 +1,5 @@
 # Changelog since v5.0.2
+- ⬆️ Update streamlink to v6.6.2 
 - Merge pull request #131 from dfigus/renovate-grouping
 
 Group Alpine Package in one Renovate PR 
