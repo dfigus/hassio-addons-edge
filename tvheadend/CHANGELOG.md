@@ -1,4 +1,5 @@
 # Changelog since v5.0.2
+- ⬆️ Update setuptools to v69.1.1 
 - Merge pull request #133 from dfigus/add-comchap 
 - Update docs with comchap 
 - Move comchap clone to builder
