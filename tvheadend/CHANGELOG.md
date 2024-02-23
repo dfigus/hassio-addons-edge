@@ -1,4 +1,11 @@
 # Changelog since v5.0.2
+- Merge pull request #133 from dfigus/add-comchap 
+- Update docs with comchap 
+- Move comchap clone to builder
+There is no git in the runtime image... 
+- Prettified Code! 
+- Enable renovate for comchap 
+- Add comchap in Dockerfile 
 - ⬆️ Update streamlink to v6.6.2 
 - Merge pull request #131 from dfigus/renovate-grouping
 
