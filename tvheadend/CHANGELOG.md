@@ -1,20 +1,17 @@
-# Changelog since v5.0.2
-- ⬆️ Update setuptools to v69.1.1 
-- Merge pull request #133 from dfigus/add-comchap 
-- Update docs with comchap 
-- Move comchap clone to builder
-There is no git in the runtime image... 
-- Prettified Code! 
-- Enable renovate for comchap 
-- Add comchap in Dockerfile 
-- ⬆️ Update streamlink to v6.6.2 
-- Merge pull request #131 from dfigus/renovate-grouping
+## What’s changed
 
-Group Alpine Package in one Renovate PR 
-- Group Alpine Package in one Renovate PR 
-- Merge pull request #130 from dfigus/renovate/alpine_3_19-python3-dev-3.x
+## ✨ New features
 
-⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 
-- Update python to 3.11.8-r0 
-- ⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 
-- ⬆️ Update alpine_3_19/mesa-va-gallium to v23.3.6-r0 
+- Add comchap & comskip @dfigus (#133)
+
+## 🧰 Maintenance
+
+- Group Alpine Package in one Renovate PR @dfigus (#131)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update alpine_3_19/mesa-va-gallium to v23.3.6-r0 @renovate (#128)
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 @renovate (#130)
+- ⬆️ Update streamlink to v6.6.2 @renovate (#132)
+- ⬆️ Update setuptools to v69.1.1 @renovate (#134)
+- ⬆️ Update tvheadend digest to ae51d24 @renovate (#127)
