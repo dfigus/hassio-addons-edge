@@ -1,3 +1,7 @@
-# Changelog since v5.1.0
-- ⬆️ Update picons/picons to v2024-02-23--23-46-19 
-- ⬆️ Update tvheadend digest to a9c6db8 
+# Changelog since v5.1.1
+- Merge pull request #142 from dfigus/add-usb-video-access
+
+Add usb and video direct access 
+- Add usb and video direct access
+USB access to trigger USB reset for buggy USB tuners
+Video access to enable hw encoding 
