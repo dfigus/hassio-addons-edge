@@ -1,4 +1,5 @@
 # Changelog since v5.1.4
+- ⬆️ Update tvheadend digest to 1212b94 
 - Merge pull request #152 from dfigus/add-firmware-symlink
 
 Add firmware symlink to /share/firmware for additional firmware 
