@@ -5,3 +5,6 @@ addons:
     repository: dfigus/addon-tvheadend
     target: tvheadend
     image: ghcr.io/dfigus/tvheadend/{arch}
+  usb-test:
+    repository: dfigus/addon-usb-test
+    image: ghcr.io/dfigus/usb-test/{arch}
