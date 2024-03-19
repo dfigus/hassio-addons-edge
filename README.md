@@ -52,6 +52,19 @@ TV streaming server and recorder
 
 [:books: TVHeadend add-on documentation][addon-doc-tvheadend]
 
+### &#10003; [USB-Test][addon-usb-test]
+
+![Latest Version][usb-test-version-shield]
+![Supports armhf Architecture][usb-test-armhf-shield]
+![Supports armv7 Architecture][usb-test-armv7-shield]
+![Supports aarch64 Architecture][usb-test-aarch64-shield]
+![Supports amd64 Architecture][usb-test-amd64-shield]
+![Supports i386 Architecture][usb-test-i386-shield]
+
+USB Test
+
+[:books: USB-Test add-on documentation][addon-doc-usb-test]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -74,6 +87,7 @@ You have several options to get them answered:
  the issue on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: TVHeadend][tvheadend-issue]
+- [Open an issue for the add-on: USB-Test][usb-test-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -120,6 +134,15 @@ SOFTWARE.
 [tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-usb-test]: https://github.com/dfigus/addon-usb-test/tree/744d314
+[addon-doc-usb-test]: https://github.com/dfigus/addon-usb-test/blob/744d314/README.md
+[usb-test-issue]: https://github.com/dfigus/addon-usb-test/issues
+[usb-test-version-shield]: https://img.shields.io/badge/version-744d314-blue.svg
+[usb-test-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[usb-test-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[usb-test-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[usb-test-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[usb-test-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [dfigus]: https://github.com/dfigus
 [issue]: https://github.com/dfigus/hassio-addons-edge/issues
 [license-shield]: https://img.shields.io/github/license/dfigus/hassio-addons-edge.svg

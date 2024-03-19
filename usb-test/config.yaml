@@ -1,0 +1,23 @@
+name: USB-Test
+version: 744d314
+slug: usb-test
+description: USB Test
+url: https://github.com/dfigus/addon-usb-test
+ingress: true
+ingress_port: 0
+ingress_stream: true
+init: false
+full_access: true
+panel_icon: mdi:television
+arch:
+- aarch64
+- amd64
+- armhf
+- armv7
+- i386
+host_network: true
+map:
+- addon_config:rw
+- share:rw
+- media:rw
+image: ghcr.io/dfigus/usb-test/{arch}
