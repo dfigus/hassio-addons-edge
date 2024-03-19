@@ -7,4 +7,5 @@ addons:
     image: ghcr.io/dfigus/tvheadend/{arch}
   usb-test:
     repository: dfigus/addon-usb-test
+    target: usb-test
     image: ghcr.io/dfigus/usb-test/{arch}
