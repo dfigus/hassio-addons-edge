@@ -1,4 +1,5 @@
 # Changelog since v5.1.5
+- ⬆️ Update picons/picons to v2024-03-28--22-47-04 
 - ⬆️ Update picons/picons to v2024-03-21--02-52-08 
 - ⬆️ Update tvheadend digest to ab6ea89 
 - ⬆️ Update streamlink to v6.7.2 
