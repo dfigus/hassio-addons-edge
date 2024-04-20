@@ -1,4 +1,5 @@
 # Changelog since v5.1.6
+- ⬆️ Update picons/picons to v2024-04-13--23-33-18 
 - ⬆️ Update Alpine packages to v3.11.9-r0 
 - ⬆️ Update tvheadend digest to b100585 
 - ⬆️ Update setuptools to v69.5.1 
