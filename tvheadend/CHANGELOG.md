@@ -1,4 +1,5 @@
 # Changelog since v5.1.6
+- ⬆️ Update tvheadend digest to b100585 
 - ⬆️ Update setuptools to v69.5.1 
 - ⬆️ Update setuptools to v69.5.0 
 - ⬆️ Update tvheadend digest to 223f83b 
