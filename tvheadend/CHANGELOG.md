@@ -1,4 +1,8 @@
 # Changelog since v5.1.6
+- Merge pull request #172 from dfigus/renovate/tvheadend-digest
+
+⬆️ Update tvheadend digest to a68d340 
+- ⬆️ Update tvheadend digest to a68d340 
 - ⬆️ Update streamlink to v6.7.3 
 - ⬆️ Update picons/picons to v2024-04-13--23-33-18 
 - ⬆️ Update Alpine packages to v3.11.9-r0 
