@@ -1,4 +1,8 @@
 # Changelog since v5.1.10
+- Merge pull request #192 from dfigus/group-base-image-and-alpine-packages
+
+Group major Base Image and Alpine Updates together 
+- Group major Base Image and Alpine Updates together 
 - Merge pull request #189 from dfigus/renovate/add-on-base-image
 
 ⬆️ Update alpine Docker tag to v3.20 
