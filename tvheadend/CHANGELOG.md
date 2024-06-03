@@ -1,4 +1,8 @@
 # Changelog since v5.1.10
+- Merge pull request #198 from dfigus/dont-separate-major-minor-docker-deps
+
+Don't separate major deps updates for Docker deps 
+- Don't separate major deps updates for Docker deps 
 - Merge pull request #195 from dfigus/renovate-merge
 
 Renovate merge 
