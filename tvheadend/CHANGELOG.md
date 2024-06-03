@@ -1,2 +1,10 @@
 # Changelog since v5.1.10
+- Merge pull request #187 from dfigus/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v15.0.9 
+- Merge pull request #186 from dfigus/renovate/picons-picons-2024.x
+
+⬆️ Update picons/picons to v2024-05-17--23-25-06 
+- ⬆️ Update Add-on base image to v15.0.9 
+- ⬆️ Update picons/picons to v2024-05-17--23-25-06 
 - ⬆️ Update Alpine packages to v2.11.8-r0 
