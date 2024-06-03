@@ -1,4 +1,8 @@
 # Changelog since v5.1.10
+- Merge pull request #200 from dfigus/fix-renovate-config
+
+Revert Renovate Config Changes for Merging 
+- Revert Renovate Config Changes for Merging 
 - Merge pull request #198 from dfigus/dont-separate-major-minor-docker-deps
 
 Don't separate major deps updates for Docker deps 
