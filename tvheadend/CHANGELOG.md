@@ -1,4 +1,9 @@
 # Changelog since v5.1.10
+- Merge pull request #195 from dfigus/renovate-merge
+
+Renovate merge 
+- Prettified Code! 
+- Merging docker dependencies 
 - Merge pull request #192 from dfigus/group-base-image-and-alpine-packages
 
 Group major Base Image and Alpine Updates together 
