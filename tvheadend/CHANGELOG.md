@@ -1,4 +1,8 @@
 # Changelog since v5.1.10
+- Merge pull request #189 from dfigus/renovate/add-on-base-image
+
+⬆️ Update alpine Docker tag to v3.20 
+- ⬆️ Update alpine Docker tag to v3.20 
 - Merge pull request #188 from dfigus/renovate/setuptools-70.x 
 - Merge pull request #190 from dfigus/renovate/picons-picons-2024.x 
 - ⬆️ Update setuptools to v70 
