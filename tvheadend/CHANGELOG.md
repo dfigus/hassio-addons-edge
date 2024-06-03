@@ -1,4 +1,9 @@
 # Changelog since v5.1.10
+- Merge pull request #191 from dfigus/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v16 (major) 
+- ⬆️ Update Docker Major Dependencies for Alpine 3.20 
+- ⬆️ Update Add-on base image to v16 
 - Merge pull request #200 from dfigus/fix-renovate-config
 
 Revert Renovate Config Changes for Merging 
