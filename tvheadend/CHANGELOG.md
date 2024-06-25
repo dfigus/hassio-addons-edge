@@ -1,4 +1,8 @@
 # Changelog since v5.1.11
+- Merge pull request #210 from dfigus/renovate/streamlink-6.x 
+- Merge pull request #202 from dfigus/renovate/comskip-digest 
+- ⬆️ Update streamlink to v6.8.1 
+- ⬆️ Update comskip digest to 2ef8684 
 - Merge pull request #203 from dfigus/renovate/tvheadend-digest
 
 ⬆️ Update tvheadend digest to 128d686 
