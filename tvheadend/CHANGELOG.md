@@ -1,4 +1,8 @@
 # Changelog since v5.1.11
+- Merge pull request #208 from dfigus/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v16.1.0 
+- ⬆️ Update Add-on base image to v16.1.0 
 - Merge pull request #210 from dfigus/renovate/streamlink-6.x 
 - Merge pull request #202 from dfigus/renovate/comskip-digest 
 - ⬆️ Update streamlink to v6.8.1 
