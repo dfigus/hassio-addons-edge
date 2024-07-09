@@ -1,4 +1,10 @@
 # Changelog since v5.1.11
+- Merge pull request #214 from dfigus/renovate/streamlink-6.x 
+- Merge pull request #213 from dfigus/renovate/picons-picons-2024.x 
+- Merge pull request #211 from dfigus/renovate/tvheadend-digest 
+- ⬆️ Update picons/picons to v2024-07-06--22-54-54 
+- ⬆️ Update streamlink to v6.8.2 
+- ⬆️ Update tvheadend digest to d2e41b5 
 - Merge pull request #215 from dfigus/renovate/alpine-packages 
 - ⬆️ Update alpine_3_20/py3-requests to v2.32.3-r0 
 - Merge pull request #208 from dfigus/renovate/add-on-base-image
