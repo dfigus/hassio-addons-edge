@@ -1,4 +1,6 @@
 # Changelog since v5.1.11
+- Merge pull request #215 from dfigus/renovate/alpine-packages 
+- ⬆️ Update alpine_3_20/py3-requests to v2.32.3-r0 
 - Merge pull request #208 from dfigus/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v16.1.0 
