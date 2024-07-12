@@ -1,4 +1,10 @@
 # Changelog since v5.1.11
+- Merge pull request #217 from dfigus/fix-renovate-repology
+
+Renovate Workaround for Repology Server Overload 
+- Renovate Workaround for Repology Server Overload
+
+This should fix 409 Too Many Requests 
 - Merge pull request #212 from dfigus/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v16.1.2 
