@@ -1,4 +1,5 @@
 # Changelog since v5.1.11
+- ⬆️ Update streamlink to v6.8.3 
 - Merge pull request #217 from dfigus/fix-renovate-repology
 
 Renovate Workaround for Repology Server Overload 
