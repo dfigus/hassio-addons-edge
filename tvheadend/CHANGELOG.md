@@ -1,4 +1,6 @@
 # Changelog since v5.1.11
+- Merge pull request #219 from dfigus/renovate/tvheadend-digest 
+- ⬆️ Update tvheadend digest to 1dc8ffe 
 - Merge pull request #216 from dfigus/renovate/setuptools-70.x 
 - ⬆️ Update setuptools to v70.3.0 
 - ⬆️ Update streamlink to v6.8.3 
