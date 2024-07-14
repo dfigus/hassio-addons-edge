@@ -1,4 +1,5 @@
 # Changelog since v5.1.11
+- ⬆️ Update Add-on base image to v16.1.3 
 - Merge pull request #219 from dfigus/renovate/tvheadend-digest 
 - ⬆️ Update tvheadend digest to 1dc8ffe 
 - Merge pull request #216 from dfigus/renovate/setuptools-70.x 
