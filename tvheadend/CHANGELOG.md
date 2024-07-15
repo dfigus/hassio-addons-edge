@@ -1,4 +1,8 @@
 # Changelog since v5.1.11
+- Merge pull request #221 from dfigus/renovate/picons-picons-2024.x
+
+⬆️ Update picons/picons to v2024-07-13--00-16-24 
+- ⬆️ Update picons/picons to v2024-07-13--00-16-24 
 - ⬆️ Update Add-on base image to v16.1.3 
 - Merge pull request #219 from dfigus/renovate/tvheadend-digest 
 - ⬆️ Update tvheadend digest to 1dc8ffe 
