@@ -1,4 +1,8 @@
 # Changelog since v5.1.11
+- Merge pull request #222 from dfigus/renovate/setuptools-71.x
+
+⬆️ Update setuptools to v71 
+- ⬆️ Update setuptools to v71 
 - Merge pull request #221 from dfigus/renovate/picons-picons-2024.x
 
 ⬆️ Update picons/picons to v2024-07-13--00-16-24 
