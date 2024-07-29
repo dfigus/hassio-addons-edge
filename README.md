@@ -125,10 +125,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/8b7b8d8
-[addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/8b7b8d8/README.md
+[addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/c3fe86e
+[addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/c3fe86e/README.md
 [tvheadend-issue]: https://github.com/dfigus/addon-tvheadend/issues
-[tvheadend-version-shield]: https://img.shields.io/badge/version-8b7b8d8-blue.svg
+[tvheadend-version-shield]: https://img.shields.io/badge/version-c3fe86e-blue.svg
 [tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
