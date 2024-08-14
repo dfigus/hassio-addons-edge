@@ -1,12 +1,5 @@
-## What’s changed
-
-## 🐛 Bug fixes
-
-- Fix ffmpeg version in runtime - use ffmpeg6 @dfigus (#226)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update tvheadend digest to b774bdd @renovate (#223)
-- ⬆️ Update picons/picons to v2024-07-20--20-18-21 @renovate (#224)
-- ⬆️ Update picons/picons to v2024-07-26--11-29-45 @renovate (#227)
-- ⬆️ Update Add-on base image to v16.2.0 @renovate (#228)
+# Changelog since v5.1.13
+- ⬆️ Update streamlink to v6.9.0 
+- ⬆️ Update picons/picons to v2024-08-10--16-32-09 
+- ⬆️ Update tvheadend digest to adef81b 
+- ⬆️ Update Add-on base image to v16.2.1 
