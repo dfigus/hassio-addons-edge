@@ -9,3 +9,7 @@ addons:
     repository: dfigus/addon-usb-test
     target: usb-test
     image: ghcr.io/dfigus/usb-test/{arch}
+  solarflow-control:
+    repository: dfigus/addon-solarflow-control
+    target: solarflow-control
+    image: ghcr.io/dfigus/solarflow-control/{arch}
