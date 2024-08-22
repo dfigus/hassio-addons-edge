@@ -39,6 +39,19 @@ https://github.com/dfigus/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Solarflow Control][addon-solarflow-control]
+
+![Latest Version][solarflow-control-version-shield]
+![Supports armhf Architecture][solarflow-control-armhf-shield]
+![Supports armv7 Architecture][solarflow-control-armv7-shield]
+![Supports aarch64 Architecture][solarflow-control-aarch64-shield]
+![Supports amd64 Architecture][solarflow-control-amd64-shield]
+![Supports i386 Architecture][solarflow-control-i386-shield]
+
+Solarflow Control
+
+[:books: Solarflow Control add-on documentation][addon-doc-solarflow-control]
+
 ### &#10003; [TVHeadend][addon-tvheadend]
 
 ![Latest Version][tvheadend-version-shield]
@@ -86,6 +99,7 @@ You have several options to get them answered:
  separate GitHub repository for each add-on. Please ensure you are creating
  the issue on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Solarflow Control][solarflow-control-issue]
 - [Open an issue for the add-on: TVHeadend][tvheadend-issue]
 - [Open an issue for the add-on: USB-Test][usb-test-issue]
 
@@ -125,6 +139,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-solarflow-control]: https://github.com/dfigus/addon-solarflow-control/tree/2b3c5ec
+[addon-doc-solarflow-control]: https://github.com/dfigus/addon-solarflow-control/blob/2b3c5ec/README.md
+[solarflow-control-issue]: https://github.com/dfigus/addon-solarflow-control/issues
+[solarflow-control-version-shield]: https://img.shields.io/badge/version-2b3c5ec-blue.svg
+[solarflow-control-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[solarflow-control-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[solarflow-control-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[solarflow-control-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[solarflow-control-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/46150ab
 [addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/46150ab/README.md
 [tvheadend-issue]: https://github.com/dfigus/addon-tvheadend/issues
