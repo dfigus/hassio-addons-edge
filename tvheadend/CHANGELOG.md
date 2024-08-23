@@ -1,4 +1,6 @@
 # Changelog since v5.1.13
+- ⬆️ Update picons/picons to v2024-08-13--23-47-53 
+- ⬆️ Update Alpine packages to v3.12.3-r2 
 - Merge pull request #229 from dfigus/renovate/setuptools-72.x
 
 ⬆️ Update setuptools to v72 
