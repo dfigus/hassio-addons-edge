@@ -1,4 +1,5 @@
 # Changelog since v5.1.13
+- ⬆️ Update alpine_3_20/linux-firmware-other to v20240811 
 - ⬆️ Update picons/picons to v2024-08-24--11-53-10 
 - ⬆️ Update tvheadend digest to 266d035 
 - Merge pull request #236 from dfigus/renovate/setuptools-73.x 
