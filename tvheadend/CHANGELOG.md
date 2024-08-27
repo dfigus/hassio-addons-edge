@@ -1,4 +1,8 @@
 # Changelog since v5.1.13
+- ⬆️ Update picons/picons to v2024-08-24--11-53-10 
+- ⬆️ Update tvheadend digest to 266d035 
+- Merge pull request #236 from dfigus/renovate/setuptools-73.x 
+- ⬆️ Update setuptools to v73 
 - ⬆️ Update tvheadend digest to facbd4e 
 - ⬆️ Update picons/picons to v2024-08-13--23-47-53 
 - ⬆️ Update Alpine packages to v3.12.3-r2 
