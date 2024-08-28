@@ -1,4 +1,9 @@
 # Changelog since v5.1.13
+- Merge pull request #243 from dfigus/renovate/migrate-config
+
+⬆️: migrate renovate config 
+- Prettified Code! 
+- ⬆️: migrate config renovate.json 
 - ⬆️ Update alpine_3_20/linux-firmware-other to v20240811 
 - ⬆️ Update picons/picons to v2024-08-24--11-53-10 
 - ⬆️ Update tvheadend digest to 266d035 
