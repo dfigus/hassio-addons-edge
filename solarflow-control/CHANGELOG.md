@@ -1,3 +1,3 @@
-- Merge pull request #1 from dfigus/initial-version
+- Merge pull request #2 from dfigus/dev
 
-Initial Version
+Add configuration
