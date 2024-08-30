@@ -1,3 +1,3 @@
-- Merge pull request #4 from dfigus/configure-renovate
+- Merge pull request #5 from dfigus/renovate/migrate-config
 
-Configure renovate bot
+⬆️: migrate renovate config
