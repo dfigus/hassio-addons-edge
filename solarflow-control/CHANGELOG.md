@@ -1,3 +1,3 @@
-- Merge pull request #3 from dfigus/add-bt-manager
+- Merge pull request #4 from dfigus/configure-renovate
 
-Add BT Manager
+Configure renovate bot
