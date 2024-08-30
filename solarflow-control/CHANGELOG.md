@@ -1,3 +1,3 @@
-- Merge pull request #5 from dfigus/renovate/migrate-config
+- Merge pull request #7 from dfigus/fix-renovate-versioning
 
-⬆️: migrate renovate config
+Fix renovate versioning for solarflow-control
