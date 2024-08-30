@@ -1,3 +1,3 @@
-- Merge pull request #7 from dfigus/fix-renovate-versioning
+- Merge pull request #9 from dfigus/remove-bt-manager
 
-Fix renovate versioning for solarflow-control
+Disable BT Manager due to incompatible dependencies
