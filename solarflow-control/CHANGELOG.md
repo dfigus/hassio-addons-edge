@@ -1,3 +1,3 @@
-- Merge pull request #2 from dfigus/dev
+- Merge pull request #3 from dfigus/add-bt-manager
 
-Add configuration
+Add BT Manager
