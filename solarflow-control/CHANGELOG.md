@@ -1,3 +1,3 @@
-- Merge pull request #9 from dfigus/remove-bt-manager
+- Merge pull request #10 from dfigus/add-scaling-factor-config
 
-Disable BT Manager due to incompatible dependencies
+Add Scaling Factor to Config
