@@ -1,3 +1,3 @@
-- Merge pull request #10 from dfigus/add-scaling-factor-config
+- Merge pull request #11 from dfigus/renovate/reinhard-brandstaedter-solarflow-control-0.x
 
-Add Scaling Factor to Config
+⬆️ Update reinhard-brandstaedter/solarflow-control to v0.72
