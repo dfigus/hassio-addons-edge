@@ -11,5 +11,5 @@ Solarflow Control
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-18069b7-blue.svg
-[release]: https://github.com/dfigus/addon-solarflow-control/tree/18069b7
+[release-shield]: https://img.shields.io/badge/version-d24b34a-blue.svg
+[release]: https://github.com/dfigus/addon-solarflow-control/tree/d24b34a

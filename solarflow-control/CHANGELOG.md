@@ -1,3 +1,3 @@
-- Merge pull request #14 from dfigus/fix
+- Merge pull request #15 from dfigus/tune-ha-templates
 
-Fix
+Tune ha templates
