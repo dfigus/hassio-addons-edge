@@ -1,3 +1,3 @@
-- Merge pull request #15 from dfigus/tune-ha-templates
+- Merge pull request #16 from dfigus/add-logo
 
-Tune ha templates
+Add Logo and Icon
