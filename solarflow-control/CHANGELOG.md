@@ -1,3 +1,3 @@
-- Merge pull request #12 from dfigus/dev
+- Merge pull request #13 from dfigus/dev
 
-TEMP: Add HA Templates for Remaining (Dis)Charging Time
+Fix typo in config.yaml
