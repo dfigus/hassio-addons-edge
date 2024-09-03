@@ -1,3 +1,3 @@
-- Merge pull request #13 from dfigus/dev
+- Merge pull request #14 from dfigus/fix
 
-Fix typo in config.yaml
+Fix
