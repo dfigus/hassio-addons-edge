@@ -1,3 +1,3 @@
-- Merge pull request #11 from dfigus/renovate/reinhard-brandstaedter-solarflow-control-0.x
+- Merge pull request #12 from dfigus/dev
 
-⬆️ Update reinhard-brandstaedter/solarflow-control to v0.72
+TEMP: Add HA Templates for Remaining (Dis)Charging Time
