@@ -1,3 +1,3 @@
-- Merge pull request #16 from dfigus/add-logo
+- Merge pull request #17 from dfigus/switch-logo-icon
 
-Add Logo and Icon
+Switch Icon and Logo
