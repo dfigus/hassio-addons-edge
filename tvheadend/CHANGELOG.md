@@ -1,4 +1,5 @@
 # Changelog since v5.1.13
+- ⬆️ Update picons/picons to v2024-09-02--18-51-00 
 - ⬆️ Update tvheadend digest to 4aff543 
 - ⬆️ Update tvheadend digest to dd82541 
 - Merge pull request #243 from dfigus/renovate/migrate-config
