@@ -1,4 +1,6 @@
 # Changelog since v5.1.13
+- ⬆️ Update tvheadend digest to 2e92208 
+- ⬆️ Update streamlink to v6.10.0 
 - ⬆️ Update picons/picons to v2024-09-02--18-51-00 
 - ⬆️ Update tvheadend digest to 4aff543 
 - ⬆️ Update tvheadend digest to dd82541 
