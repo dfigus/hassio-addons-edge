@@ -1,4 +1,8 @@
 # Changelog since v5.1.13
+- Merge pull request #252 from dfigus/pin-builder-packages
+
+Pin alpine packages in builder stage 
+- Pin alpine packages in builder stage 
 - ⬆️ Update Add-on base image to v16.3.0 
 - Merge pull request #250 from dfigus/renovate/picons-picons-2024.x
 
