@@ -1,4 +1,13 @@
 # Changelog since v5.1.13
+- ⬆️ Update Add-on base image to v16.3.0 
+- Merge pull request #250 from dfigus/renovate/picons-picons-2024.x
+
+⬆️ Update picons/picons to v2024-09-06--21-39-17 
+- Merge pull request #242 from dfigus/renovate/setuptools-74.x
+
+⬆️ Update setuptools to v74 
+- ⬆️ Update picons/picons to v2024-09-06--21-39-17 
+- ⬆️ Update setuptools to v74 
 - ⬆️ Update tvheadend digest to 9ac57a0 
 - ⬆️ Update tvheadend digest to 2e92208 
 - ⬆️ Update streamlink to v6.10.0 
