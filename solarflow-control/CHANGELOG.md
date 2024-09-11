@@ -1,3 +1,1 @@
-- Merge pull request #17 from dfigus/switch-logo-icon
-
-Switch Icon and Logo
+- ⬆️ Update Add-on base image to v14.0.2
