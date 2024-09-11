@@ -1,42 +1,7 @@
-# Changelog since v5.1.13
-- Merge pull request #252 from dfigus/pin-builder-packages
+# Changelog since v5.1.14
+- Merge pull request #254 from dfigus/downgrade-ffmpeg
 
-Pin alpine packages in builder stage 
-- Pin alpine packages in builder stage 
-- ⬆️ Update Add-on base image to v16.3.0 
-- Merge pull request #250 from dfigus/renovate/picons-picons-2024.x
-
-⬆️ Update picons/picons to v2024-09-06--21-39-17 
-- Merge pull request #242 from dfigus/renovate/setuptools-74.x
-
-⬆️ Update setuptools to v74 
-- ⬆️ Update picons/picons to v2024-09-06--21-39-17 
-- ⬆️ Update setuptools to v74 
-- ⬆️ Update tvheadend digest to 9ac57a0 
-- ⬆️ Update tvheadend digest to 2e92208 
-- ⬆️ Update streamlink to v6.10.0 
-- ⬆️ Update picons/picons to v2024-09-02--18-51-00 
-- ⬆️ Update tvheadend digest to 4aff543 
-- ⬆️ Update tvheadend digest to dd82541 
-- Merge pull request #243 from dfigus/renovate/migrate-config
-
-⬆️: migrate renovate config 
-- Prettified Code! 
-- ⬆️: migrate config renovate.json 
-- ⬆️ Update alpine_3_20/linux-firmware-other to v20240811 
-- ⬆️ Update picons/picons to v2024-08-24--11-53-10 
-- ⬆️ Update tvheadend digest to 266d035 
-- Merge pull request #236 from dfigus/renovate/setuptools-73.x 
-- ⬆️ Update setuptools to v73 
-- ⬆️ Update tvheadend digest to facbd4e 
-- ⬆️ Update picons/picons to v2024-08-13--23-47-53 
-- ⬆️ Update Alpine packages to v3.12.3-r2 
-- Merge pull request #229 from dfigus/renovate/setuptools-72.x
-
-⬆️ Update setuptools to v72 
-- ⬆️ Update setuptools to v72 
-- ⬆️ Update alpine_3_20/nginx to v1.26.2-r0 
-- ⬆️ Update streamlink to v6.9.0 
-- ⬆️ Update picons/picons to v2024-08-10--16-32-09 
-- ⬆️ Update tvheadend digest to adef81b 
-- ⬆️ Update Add-on base image to v16.2.1 
+Downgrade to ffmpeg 4 
+- Downgrade to ffmpeg 4
+Trying to fix crashing comskip 
+- ⬆️ Update Alpine packages to v3.12.6-r0 
