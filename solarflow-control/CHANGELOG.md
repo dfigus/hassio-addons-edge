@@ -1,1 +1,1 @@
-- ⬆️ Update Add-on base image to v14.0.2
+- Merge pull request #19 from dfigus/renovate/reinhard-brandstaedter-solarflow-control-0.x
