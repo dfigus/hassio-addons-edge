@@ -1,1 +1,3 @@
-- Merge pull request #19 from dfigus/renovate/reinhard-brandstaedter-solarflow-control-0.x
+- Merge pull request #20 from dfigus/remove-ha-templates
+
+Remove HA Template Workarounds
