@@ -1,3 +1,3 @@
-- Merge pull request #20 from dfigus/remove-ha-templates
+- Merge pull request #21 from dfigus/update-icon
 
-Remove HA Template Workarounds
+Update icon
