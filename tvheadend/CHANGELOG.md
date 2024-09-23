@@ -1,4 +1,5 @@
 # Changelog since v6.0.0
+- ⬆️ Update picons/picons to v2024-09-21--23-05-53 
 - ⬆️ Update picons/picons to v2024-09-12--21-17-13 
 - Merge pull request #260 from dfigus/downgrade-curl
 
