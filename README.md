@@ -139,10 +139,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-solarflow-control]: https://github.com/dfigus/addon-solarflow-control/tree/754b4dd
-[addon-doc-solarflow-control]: https://github.com/dfigus/addon-solarflow-control/blob/754b4dd/README.md
+[addon-solarflow-control]: https://github.com/dfigus/addon-solarflow-control/tree/fec4415
+[addon-doc-solarflow-control]: https://github.com/dfigus/addon-solarflow-control/blob/fec4415/README.md
 [solarflow-control-issue]: https://github.com/dfigus/addon-solarflow-control/issues
-[solarflow-control-version-shield]: https://img.shields.io/badge/version-754b4dd-blue.svg
+[solarflow-control-version-shield]: https://img.shields.io/badge/version-fec4415-blue.svg
 [solarflow-control-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [solarflow-control-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [solarflow-control-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
