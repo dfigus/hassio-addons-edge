@@ -1,4 +1,6 @@
 # Changelog since v6.0.0
+- Merge pull request #258 from dfigus/renovate/setuptools-75.x 
+- ⬆️ Update setuptools to v75 
 - ⬆️ Update tvheadend digest to 55404da 
 - ⬆️ Update picons/picons to v2024-09-21--23-05-53 
 - ⬆️ Update picons/picons to v2024-09-12--21-17-13 
