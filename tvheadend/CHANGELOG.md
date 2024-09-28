@@ -1,4 +1,5 @@
 # Changelog since v6.0.0
+- ⬆️ Update tvheadend digest to 05c3170 
 - Merge pull request #258 from dfigus/renovate/setuptools-75.x 
 - ⬆️ Update setuptools to v75 
 - ⬆️ Update tvheadend digest to 55404da 
