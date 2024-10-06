@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- ⬆️ Update tvheadend digest to eee5cda 
 - ⬆️ Update streamlink to v6.11.0 
 - ⬆️ Update alpine_3_20/curl to v8.10.1-r0 
 - ⬆️ Update Add-on base image to v16.3.2 
