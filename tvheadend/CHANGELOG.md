@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- ⬆️ Update tvheadend digest to 26ec161 
 - ⬆️ Update Alpine packages to v3.12.7-r0 
 - ⬆️ Update picons/picons to v2024-10-04--19-12-17 
 - ⬆️ Update tvheadend digest to eee5cda 
