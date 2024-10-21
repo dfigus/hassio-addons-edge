@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- ⬆️ Update Add-on base image to v16.3.4 
 - ⬆️ Update picons/picons to v2024-10-19--21-18-53 
 - ⬆️ Update alpine_3_20/openssl-dev to v3.3.2-r1 
 - ⬆️ Update setuptools to v75.2.0 
