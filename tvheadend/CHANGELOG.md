@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update Add-on base image to v16.3.5 (#285)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/curl to v8.11.0-r1 (#284)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
