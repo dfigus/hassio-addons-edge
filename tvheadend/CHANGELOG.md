@@ -1,4 +1,10 @@
 # Changelog since v6.0.2
+- Merge pull request #287 from dfigus/add-wg+
+
+Add WebGrab+Plus 
+- Add WebGrab+Plus
+Remove support of armhf and i386 architecture as dotnet8 is not available
+there which is required for WG++ 
 - ⬆️ Update picons/picons to v2024-11-08--23-41-52 (#286)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
