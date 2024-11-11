@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update alpine_3_20/curl to v8.11.0-r2 (#288)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v75.4.0 (#289)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
