@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update setuptools to v75.4.0 (#289)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #287 from dfigus/add-wg+
 
 Add WebGrab+Plus 
