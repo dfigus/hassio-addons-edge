@@ -154,9 +154,9 @@ SOFTWARE.
 [tvheadend-version-shield]: https://img.shields.io/badge/version-4b92550-blue.svg
 [tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tvheadend-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[tvheadend-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[tvheadend-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-usb-test]: https://github.com/dfigus/addon-usb-test/tree/744d314
 [addon-doc-usb-test]: https://github.com/dfigus/addon-usb-test/blob/744d314/README.md
 [usb-test-issue]: https://github.com/dfigus/addon-usb-test/issues
