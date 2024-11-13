@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update setuptools to v75.5.0 (#292)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 653bd04 (#291)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
