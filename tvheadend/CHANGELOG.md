@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update picons/picons to v2024-11-14--16-55-04 (#294)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/dotnet8-runtime to v8.0.11-r0 (#293)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
