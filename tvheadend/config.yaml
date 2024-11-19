@@ -1,5 +1,5 @@
 name: TVHeadend
-version: a590c1c
+version: 81d441a
 slug: tvheadend
 description: TV streaming server and recorder
 url: https://github.com/dfigus/addon-tvheadend
@@ -81,4 +81,5 @@ schema:
   - country: str?
     site: str?
     channel: str?
+  wg_config: str?
 image: ghcr.io/dfigus/tvheadend/{arch}

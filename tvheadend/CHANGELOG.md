@@ -1,4 +1,12 @@
 # Changelog since v6.0.2
+- Merge pull request #295 from dfigus/add-wg+
+
+Enhance WG++ Integration 
+- Add WG++ Docs 
+- Add WebGrab+Plus Config.XML option
+Allow to supply a full WebGrab+Plus config.xml file to the addon
+configuration. This allows for more advanced users to use their own
+config.xml file. 
 - ⬆️ Update picons/picons to v2024-11-14--16-55-04 (#294)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
