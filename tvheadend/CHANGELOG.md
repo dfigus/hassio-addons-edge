@@ -1,4 +1,7 @@
 # Changelog since v6.0.2
+- ⬆️ Update setuptools to v75.6.0 (#297)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #295 from dfigus/add-wg+
 
 Enhance WG++ Integration 
