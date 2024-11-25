@@ -1,4 +1,9 @@
 # Changelog since v6.0.2
+- Merge pull request #300 from dfigus/add-ha-api
+
+Add ha api 
+- Add HA API 
+- Fix WG++ docs 
 - Merge pull request #299 from dfigus/fix-wg++-doc-image
 
 Fix WG++ doc image 

@@ -1,5 +1,5 @@
 name: TVHeadend
-version: 5958ca5
+version: 09d0773
 slug: tvheadend
 description: TV streaming server and recorder
 url: https://github.com/dfigus/addon-tvheadend
@@ -16,6 +16,7 @@ host_network: true
 video: true
 usb: true
 udev: true
+homeassistant_api: true
 devices:
 - /dev/dvb/
 - /dev/dvb/adapter0/demux0
