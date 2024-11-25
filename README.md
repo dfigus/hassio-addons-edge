@@ -148,10 +148,10 @@ SOFTWARE.
 [solarflow-control-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [solarflow-control-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [solarflow-control-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/845db48
-[addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/845db48/README.md
+[addon-tvheadend]: https://github.com/dfigus/addon-tvheadend/tree/709e04e
+[addon-doc-tvheadend]: https://github.com/dfigus/addon-tvheadend/blob/709e04e/README.md
 [tvheadend-issue]: https://github.com/dfigus/addon-tvheadend/issues
-[tvheadend-version-shield]: https://img.shields.io/badge/version-845db48-blue.svg
+[tvheadend-version-shield]: https://img.shields.io/badge/version-709e04e-blue.svg
 [tvheadend-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tvheadend-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tvheadend-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
