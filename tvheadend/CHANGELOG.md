@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #299 from dfigus/fix-wg++-doc-image
+
+Fix WG++ doc image 
+- Fix WG++ doc image 
 - ⬆️ Update picons/picons to v2024-11-22--15-37-34 (#298)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
