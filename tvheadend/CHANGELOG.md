@@ -1,4 +1,8 @@
 # Changelog since v6.0.2
+- Merge pull request #301 from dfigus/update-readme-supported-arch
+
+Update README with supported architectures 
+- Update README with supported architectures 
 - Merge pull request #300 from dfigus/add-ha-api
 
 Add ha api 
