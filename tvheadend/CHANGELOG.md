@@ -1,4 +1,16 @@
 # Changelog since v7.0.0
+- ⬆️ Update alpine Docker tag to v3.21 (#303)
+
+* ⬆️ Update alpine Docker tag to v3.21
+
+* Update Builder Packages for Alpine 3.21
+
+* Add Argtable2 patches
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Daniel Figus <daniel.figus@gmail.com> 
 - ⬆️ Update picons/picons to v2024-12-03--23-25-49 (#307)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
