@@ -1,4 +1,11 @@
 # Changelog since v7.0.0
+- Merge pull request #305 from dfigus/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v17 (major) 
+- Update g++ 
+- ⬆️ Update Alpine packages 
+- ⬆️ Update Alpine packages 
+- ⬆️ Update Add-on base image to v17 
 - ⬆️ Update alpine Docker tag to v3.21 (#303)
 
 * ⬆️ Update alpine Docker tag to v3.21
