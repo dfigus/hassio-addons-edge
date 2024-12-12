@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update alpine_3_21/curl to v8.11.1-r0 (#308)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #305 from dfigus/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v17 (major) 
