@@ -1,16 +1,10 @@
-# Changelog since v0.10.0
-- ⬆️ Update reinhard-brandstaedter/solarflow-control to v0.77 (#39)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine Docker tag to v3.21 (#37)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update reinhard-brandstaedter/solarflow-control to v0.76 (#36)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v15.0.3 (#35)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v15.0.2 (#34)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Add-on base image to v15.0.2 @renovate (#34)
+- ⬆️ Update Add-on base image to v15.0.3 @renovate (#35)
+- ⬆️ Update reinhard-brandstaedter/solarflow-control to v0.76 @renovate (#36)
+- ⬆️ Update alpine Docker tag to v3.21 @renovate (#37)
+- ⬆️ Update reinhard-brandstaedter/solarflow-control to v0.77 @renovate (#39)
+- ⬆️ Update Add-on base image to v16 (major) @renovate (#38)
