@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update picons/picons to v2024-12-28--21-44-40 (#314)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2024-12-21--01-04-51 (#313)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
