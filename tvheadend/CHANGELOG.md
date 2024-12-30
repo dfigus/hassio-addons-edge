@@ -1,4 +1,8 @@
 # Changelog since v7.0.0
+- Merge pull request #282 from dfigus/renovate/streamlink-7.x
+
+⬆️ Update streamlink to v7 
+- ⬆️ Update streamlink to v7 
 - ⬆️ Update picons/picons to v2024-12-28--21-44-40 (#314)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
