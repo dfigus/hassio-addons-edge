@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update alpine_3_21/file to v5.46-r2 (#316)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/nginx to v1.26.2-r4 (#315)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
