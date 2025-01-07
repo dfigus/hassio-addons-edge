@@ -1,6 +1,5 @@
-# Changelog since v0.10.2
-- Merge pull request #43 from dfigus/fix-lat-long-replacements
+# Changelog since v0.10.3
+- Merge pull request #46 from dfigus/update-year
 
-Fix latitude & longitude replacements 
-- Fix latitude & longitude replacements
-Also escape mqtt password properly 
+Update Year to 2025 
+- Update Year to 2025 
