@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update streamlink to v7.1.2 (#322)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #321 from dfigus/update-year
 
 Update Year to 2025 
