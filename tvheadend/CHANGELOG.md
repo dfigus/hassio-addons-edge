@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update alpine_3_21/linux-firmware-other to v20241210 (#324)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v75.8.0 (#323)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
