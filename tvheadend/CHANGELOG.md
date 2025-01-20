@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update alpine_3_21/perl to v5.40.1-r0 (#330)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/dotnet8-runtime to v8.0.12-r0 (#328)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
