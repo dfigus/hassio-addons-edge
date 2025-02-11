@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update Add-on base image to v17.1.3 (#342)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update comskip digest to 55b0bcd (#333)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
