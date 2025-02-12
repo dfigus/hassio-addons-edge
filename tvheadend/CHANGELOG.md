@@ -1,4 +1,10 @@
 # Changelog since v7.0.3
+- ⬆️ Update Add-on base image to v17.1.4 (#344)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/openssl-dev to v3.3.3-r0 (#343)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v17.1.3 (#342)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
