@@ -1,4 +1,13 @@
 # Changelog since v7.0.3
+- ⬆️ Update Alpine packages (#345)
+
+* ⬆️ Update Alpine packages
+
+* ⬆️ Update Add-on base image to v17.1.5
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v17.1.4 (#344)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
