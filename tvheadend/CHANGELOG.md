@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update streamlink to v7.1.3 (#347)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages (#345)
 
 * ⬆️ Update Alpine packages
