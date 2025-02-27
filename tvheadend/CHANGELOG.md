@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update alpine_3_21/dotnet8-runtime to v8.0.13-r0 (#353)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v75.8.2 (#352)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
