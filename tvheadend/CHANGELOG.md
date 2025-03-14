@@ -1,4 +1,10 @@
 # Changelog since v7.0.3
+- ⬆️ Update setuptools to v75.9.1 (#358)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-03-04--22-19-23 (#357)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages to v2.13.4-r5 (#356)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
