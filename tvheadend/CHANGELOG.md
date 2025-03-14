@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update Alpine packages to v1.1.42-r2 (#360)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v75.9.1 (#358)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
