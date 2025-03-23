@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update Alpine packages (#362)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages to v1.1.42-r2 (#360)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
