@@ -1,4 +1,10 @@
 # Changelog since v7.0.3
+- ⬆️ Update Add-on base image to v17.2.2 (#361)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-03-15--16-00-03 (#363)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages (#362)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
