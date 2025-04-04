@@ -1,4 +1,8 @@
 # Changelog since v7.0.3
+- Merge pull request #366 from dfigus/renovate/setuptools-78.x
+
+⬆️ Update setuptools to v78 
+- ⬆️ Update setuptools to v78 
 - ⬆️ Update Add-on base image to v17.2.3 (#368)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
