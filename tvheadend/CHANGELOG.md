@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update comskip digest to 9497bf2 (#370)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #366 from dfigus/renovate/setuptools-78.x
 
 ⬆️ Update setuptools to v78 
