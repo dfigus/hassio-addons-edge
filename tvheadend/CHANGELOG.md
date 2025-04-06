@@ -1,4 +1,7 @@
 # Changelog since v7.0.3
+- ⬆️ Update streamlink to v7.2.0 (#369)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update comskip digest to 9497bf2 (#370)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
