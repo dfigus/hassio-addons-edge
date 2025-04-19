@@ -1,4 +1,7 @@
 # Changelog since v7.0.4
+- ⬆️ Update setuptools to v78.1.1 (#379)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update comskip digest to a140b6a (#378)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
