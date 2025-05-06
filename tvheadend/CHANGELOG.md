@@ -1,4 +1,7 @@
 # Changelog since v7.0.4
+- ⬆️ Update Add-on base image to v17.2.5 (#386)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2025-05-01--16-21-42 (#385)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
