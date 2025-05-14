@@ -1,4 +1,7 @@
 # Changelog since v7.0.4
+- ⬆️ Update tvheadend digest to 13804ab (#395)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #383 from dfigus/renovate/setuptools-80.x
 
 ⬆️ Update setuptools to v80 
