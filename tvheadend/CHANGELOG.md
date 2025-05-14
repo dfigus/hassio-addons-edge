@@ -1,7 +1,11 @@
 # Changelog since v7.0.4
+- Merge pull request #383 from dfigus/renovate/setuptools-80.x
+
+⬆️ Update setuptools to v80 
 - ⬆️ Update tvheadend digest to cebe615 (#393)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update setuptools to v80 
 - ⬆️ Update Alpine packages to v2.13.4-r6 (#394)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
