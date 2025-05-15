@@ -1,4 +1,10 @@
 # Changelog since v7.0.4
+- ⬆️ Update tvheadend digest to bdec3c5 (#398)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update setuptools to v80.7.1 (#399)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v80.6.0 (#397)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
