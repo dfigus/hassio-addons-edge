@@ -1,4 +1,13 @@
 # Changelog since v7.0.4
+- ⬆️ Update tvheadend digest to ebac087 (#400)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update setuptools to v80.8.0 (#402)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-05-17--20-47-33 (#401)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/dotnet8-runtime to v8.0.16-r0 (#403)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
