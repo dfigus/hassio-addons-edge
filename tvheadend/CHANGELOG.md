@@ -1,4 +1,7 @@
 # Changelog since v7.0.4
+- ⬆️ Update tvheadend digest to 7e1f9ca (#405)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages to v3.12.10-r1 (#404)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
