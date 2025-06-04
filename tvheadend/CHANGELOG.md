@@ -1,4 +1,7 @@
 # Changelog since v7.0.5
+- ⬆️ Update tvheadend digest to 0f74b0a (#418)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine Docker tag to v3.22 (#413)
 
 * ⬆️ Update alpine Docker tag to v3.22
