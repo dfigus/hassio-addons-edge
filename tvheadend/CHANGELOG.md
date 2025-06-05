@@ -1,4 +1,7 @@
 # Changelog since v7.0.5
+- Merge pull request #387 from dfigus/renovate/migrate-config
+
+⬆️: migrate renovate config 
 - ⬆️ Update tvheadend digest to 808a87a (#419)
 
 * ⬆️ Update tvheadend digest to 808a87a
@@ -9,6 +12,8 @@
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
 Co-authored-by: Daniel Figus <daniel.figus@gmail.com> 
+- Prettified Code! 
+- ⬆️: migrate config renovate.json 
 - ⬆️ Update tvheadend digest to 0f74b0a (#418)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
