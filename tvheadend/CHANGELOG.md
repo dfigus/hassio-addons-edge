@@ -1,4 +1,7 @@
 # Changelog since v7.0.5
+- ⬆️ Update streamlink to v7.4.0 (#421)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 56d23c8 (#420)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
