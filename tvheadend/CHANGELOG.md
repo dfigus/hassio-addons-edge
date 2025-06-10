@@ -1,4 +1,7 @@
 # Changelog since v7.0.5
+- ⬆️ Update alpine_3_21/py3-requests to v2.32.4-r0 (#428)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 19026f3 (#427)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
