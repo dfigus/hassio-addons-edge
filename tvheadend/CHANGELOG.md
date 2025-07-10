@@ -1,4 +1,10 @@
 # Changelog since v7.0.6
+- Merge pull request #433 from dfigus/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v18 (major) 
+- Update Packages for Alpine 3.22 
+- Update Renovate Config to Use Alpine 3.22 
+- ⬆️ Update Add-on base image to v18 
 - ⬆️ Update picons/picons to v2025-07-02--13-18-25 (#435)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
