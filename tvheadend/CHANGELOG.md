@@ -1,4 +1,7 @@
 # Changelog since v7.0.6
+- ⬆️ Update Alpine packages (#437)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #433 from dfigus/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v18 (major) 
