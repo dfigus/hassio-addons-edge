@@ -33,5 +33,5 @@ This add-on has the following additional software preinstalled:
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-c13337c-blue.svg
-[release]: https://github.com/dfigus/addon-tvheadend/tree/c13337c
+[release-shield]: https://img.shields.io/badge/version-bb9a1a3-blue.svg
+[release]: https://github.com/dfigus/addon-tvheadend/tree/bb9a1a3
