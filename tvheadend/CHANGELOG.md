@@ -1,4 +1,7 @@
 # Changelog since v7.0.8
+- ⬆️ Update alpine_3_22/openssl-dev to v3.5.4-r0 (#439)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2025-09-28--00-45-44 (#461)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
