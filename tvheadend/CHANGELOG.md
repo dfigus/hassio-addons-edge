@@ -1,4 +1,8 @@
 # Changelog since v7.0.8
+- Merge pull request #465 from dfigus/update-devcontainer
+
+Update devcontainer configuration 
+- Update devcontainer configuration 
 - ⬆️ Update tvheadend digest to 33ba6df (#464)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
