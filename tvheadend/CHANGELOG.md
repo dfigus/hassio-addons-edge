@@ -1,4 +1,8 @@
 # Changelog since v7.0.8
+- Merge pull request #466 from dfigus/fix-startup-crash-sig4-illegal-instruction
+
+Downgrade libhdhomerun to fix startup crash (sig 4 illegal instruction) 
+- Downgrade libhdhomerun to fix startup crash (sig 4 illegal instruction) 
 - Merge pull request #465 from dfigus/update-devcontainer
 
 Update devcontainer configuration 
