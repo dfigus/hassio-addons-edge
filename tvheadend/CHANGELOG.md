@@ -1,4 +1,7 @@
 # Changelog since v7.0.8
+- ⬆️ Update picons/picons to v2025-10-04--23-54-47 (#468)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #466 from dfigus/fix-startup-crash-sig4-illegal-instruction
 
 Downgrade libhdhomerun to fix startup crash (sig 4 illegal instruction) 
