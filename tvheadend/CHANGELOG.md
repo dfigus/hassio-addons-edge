@@ -1,4 +1,10 @@
 # Changelog since v7.0.8
+- ⬆️ Update Add-on base image to v18.2.0 (#478)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-10-11--01-02-12 (#476)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to e019093 (#475)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
