@@ -1,4 +1,8 @@
 # Changelog since v7.0.8
+- Merge pull request #479 from dfigus/update-libhdhomerun
+
+Update libhdhomerun to 20231109-r1, add ffmpeg 6 
+- Update libhdhomerun to 20231109-r1, add ffmpeg 6 
 - ⬆️ Update Add-on base image to v18.2.0 (#478)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
