@@ -1,4 +1,10 @@
 # Changelog since v7.0.9
+- ⬆️ Update alpine_3_22/dotnet8-runtime to v8.0.21-r0 (#485)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-10-20--18-08-37 (#484)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2025-10-17--08-28-59 (#477)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
