@@ -1,4 +1,10 @@
 # Changelog since v7.0.9
+- ⬆️ Update tvheadend digest to 588a49d (#486)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-10-25--23-19-47 (#487)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/dotnet8-runtime to v8.0.21-r0 (#485)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
