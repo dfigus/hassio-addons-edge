@@ -1,4 +1,7 @@
 # Changelog since v7.0.9
+- ⬆️ Update tvheadend digest to 0b23983 (#495)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 7f9710c (#492)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
