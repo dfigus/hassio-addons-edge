@@ -1,4 +1,10 @@
 # Changelog since v7.0.9
+- ⬆️ Update alpine_3_22/jq to v1.8.1-r0 (#496)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2025-11-13--22-42-00 (#498)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 0b23983 (#495)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

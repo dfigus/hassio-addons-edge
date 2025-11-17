@@ -1,5 +1,5 @@
 name: TVHeadend
-version: ddf6dc1
+version: '7469547'
 slug: tvheadend
 description: TV streaming server and recorder
 url: https://github.com/dfigus/addon-tvheadend
