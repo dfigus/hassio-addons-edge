@@ -1,4 +1,7 @@
 # Changelog since v7.0.9
+- ⬆️ Update picons/picons to v2025-11-21--07-17-33 (#499)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/jq to v1.8.1-r0 (#496)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
