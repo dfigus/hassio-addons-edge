@@ -1,4 +1,10 @@
 # Changelog since v7.0.9
+- ⬆️ Update alpine_3_22/dotnet8-runtime to v8.0.22-r0 (#504)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update tvheadend digest to 67f98d6 (#502)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 6fbcaba (#501)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
