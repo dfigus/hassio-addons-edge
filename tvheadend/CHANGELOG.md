@@ -1,4 +1,11 @@
 # Changelog since v7.0.9
+- ⬆️ Update streamlink to v8.1.0 (#508)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #494 from dfigus/renovate/streamlink-8.x
+
+⬆️ Update streamlink to v8 
+- ⬆️ Update streamlink to v8 
 - ⬆️ Update tvheadend digest to 23e2089 (#507)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
