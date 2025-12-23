@@ -1,4 +1,7 @@
 # Changelog since v7.0.9
+- ⬆️ Update picons/picons to v2025-12-19--00-04-29 (#509)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to fa8011b (#511)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
