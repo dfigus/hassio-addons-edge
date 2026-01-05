@@ -1,4 +1,7 @@
 # Changelog since v7.0.9
+- ⬆️ Update tvheadend digest to 4980ee4 (#521)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 3d80bab (#520)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
