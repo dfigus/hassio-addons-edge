@@ -1,4 +1,8 @@
 # Changelog since v7.0.9
+- Merge pull request #526 from dfigus/update-year
+
+Update Year to 2026 
+- Update Year to 2026 
 - ⬆️ Update tvheadend digest to 212b9d1 (#525)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
