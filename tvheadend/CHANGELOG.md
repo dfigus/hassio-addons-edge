@@ -1,4 +1,7 @@
 # Changelog since v7.1.0
+- ⬆️ Update picons/picons to v2026-01-21--23-45-40 (#533)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v80.10.1 (#532)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
