@@ -1,4 +1,15 @@
 # Changelog since v7.1.0
+- ⬆️ Update picons/picons to v2026-02-21--01-40-01 (#538)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update tvheadend digest to 7c4011d (#539)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #543 from dfigus/drop-armv7-support
+
+Drop armv7 support due to HA 2025.12 armv7 deprecation 
+- ⬆️ Update Alpine packages 
+- Drop armv7 support due to HA 2025.12 armv7 deprecation 
 - ⬆️ Update setuptools to v80.10.2 (#535)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
