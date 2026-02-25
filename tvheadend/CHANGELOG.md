@@ -1,4 +1,8 @@
 # Changelog since v7.1.0
+- Merge pull request #544 from dfigus/update-alpine-release-in-renovate-config
+
+Update Alpine release in renovate config 
+- Update Alpine release in renovate config 
 - ⬆️ Update streamlink to v8.2.0 (#542)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
