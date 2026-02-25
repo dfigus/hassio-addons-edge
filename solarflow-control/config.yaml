@@ -1,5 +1,5 @@
 name: Solarflow Control
-version: c3a9ac9
+version: 0.11.6
 slug: solarflow-control
 description: Solarflow Control
 url: https://github.com/dfigus/addon-solarflow-control
@@ -22,6 +22,7 @@ options:
   control_soc: false
   battery_low: 5
   battery_high: 100
+  disable_full_discharge: false
   mqtt_host: ''
   mqtt_user: ''
   mqtt_password: ''
@@ -29,6 +30,7 @@ options:
   inverter_max_power: 2000
   opendtu_inverter_serial: ''
   ahoydtu_inverter_id: '0'
+  ahoydtu_inverter_name: ''
   sm_generic_base_topic: ''
   sm_generic_cur_accessor: ''
   sm_generic_total_accessor: ''
@@ -42,7 +44,9 @@ options:
   max_inverter_limit: 800
   max_inverter_input: 700
   min_inverter_limit: 10
+  steering_interval: 15
   discharge_during_daytime: false
+  battery_discharge_start: 10
   sunrise_offset: 60
   sunset_offset: 60
 schema:
@@ -53,6 +57,7 @@ schema:
   full_charge_interval: int
   control_bypass: bool
   control_soc: bool
+  disable_full_discharge: bool
   battery_low: int
   battery_high: int
   mqtt_host: str
@@ -64,6 +69,7 @@ schema:
   inverter_max_power: int?
   opendtu_inverter_serial: str?
   ahoydtu_inverter_id: int?
+  ahoydtu_inverter_name: str?
   sm_rapid_change_diff: int?
   sm_zero_offset: int?
   sm_scaling_factor: int?
@@ -79,9 +85,12 @@ schema:
   max_inverter_limit: int?
   max_inverter_input: int?
   min_inverter_limit: int?
+  steering_interval: int?
   discharge_during_daytime: bool?
+  battery_discharge_start: int?
   latitude: float?
   longitude: float?
   sunrise_offset: int?
   sunset_offset: int?
+  use_fork: bool?
 image: ghcr.io/dfigus/solarflow-control/{arch}
