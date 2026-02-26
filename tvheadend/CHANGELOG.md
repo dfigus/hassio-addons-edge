@@ -1,4 +1,16 @@
 # Changelog since v7.1.0
+- Merge pull request #505 from dfigus/renovate/add-on-base-image
+
+⬆️ Update alpine Docker tag to v3.23 
+- Switch to pre-build argtable2 package 
+- Bump dependencies for alpine 3.23 
+- Update Base Image to 20.0.1 
+- Update g++ to 15.2.0-r2 
+- Update libhdhomerun 
+- Remove ffmpeg4 due to unavailability in alpine 3.23 
+- ⬆️ Update Alpine packages 
+- ⬆️ Update Alpine packages 
+- ⬆️ Update alpine Docker tag to v3.23 
 - Merge pull request #544 from dfigus/update-alpine-release-in-renovate-config
 
 Update Alpine release in renovate config 
