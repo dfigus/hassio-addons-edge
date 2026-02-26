@@ -1,4 +1,8 @@
 # Changelog since v7.1.0
+- Merge pull request #546 from dfigus/tweak-nginx-config-silence-recv-failed
+
+Silence Connection reset by peer errors in nginx 
+- Silence Connection reset by peer errors in nginx 
 - Merge pull request #505 from dfigus/renovate/add-on-base-image
 
 ⬆️ Update alpine Docker tag to v3.23 
