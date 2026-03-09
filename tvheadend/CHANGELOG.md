@@ -1,4 +1,6 @@
 # Changelog since v8.0.0
+- Merge pull request #541 from dfigus/renovate/setuptools-82.x 
+- ⬆️ Update setuptools to v82 
 - Merge pull request #554 from dfigus/renovate/pin-dependencies
 
 ⬆️ Pin hassio-addons/workflows action to bf24a85 
