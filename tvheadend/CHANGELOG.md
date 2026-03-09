@@ -1,4 +1,9 @@
 # Changelog since v8.0.0
+- Merge pull request #553 from dfigus/renovate/hassio-addons-workflows-digest
+
+⬆️ Update hassio-addons/workflows digest to 6fc3bc2 
+- Update GitHub Actions workflows 
+- ⬆️ Update hassio-addons/workflows digest to 6fc3bc2 
 - Pin Actions to Digests for Renovate 
 - ⬆️ Update streamlink to v8.2.1 (#549)
 
