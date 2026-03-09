@@ -1,5 +1,5 @@
-# Changelog since v0.11.6
-- Merge pull request #83 from dfigus/drop-armv7-armhf-i386-support
+## What’s changed
 
-Drop armv7/armhf/i386 support due to HA 2025.12 deprecation 
-- Drop armv7/armhf/i386 support due to HA 2025.12 deprication 
+## 🚨 Breaking changes
+
+- Drop armv7/armhf/i386 support due to HA 2025.12 deprecation @dfigus (#83)
