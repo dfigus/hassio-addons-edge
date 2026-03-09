@@ -1,4 +1,5 @@
 # Changelog since v8.0.0
+- Pin Actions to Digests for Renovate 
 - ⬆️ Update streamlink to v8.2.1 (#549)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
