@@ -1,4 +1,9 @@
 # Changelog since v8.0.0
+- Merge pull request #554 from dfigus/renovate/pin-dependencies
+
+⬆️ Pin hassio-addons/workflows action to bf24a85 
+- Update yamllint configuration for renovate 
+- ⬆️ Pin hassio-addons/workflows action to bf24a85 
 - Merge pull request #553 from dfigus/renovate/hassio-addons-workflows-digest
 
 ⬆️ Update hassio-addons/workflows digest to 6fc3bc2 
