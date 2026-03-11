@@ -1,4 +1,7 @@
 # Changelog since v8.0.0
+- ⬆️ Update tvheadend digest to eb023c5 (#555)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #541 from dfigus/renovate/setuptools-82.x 
 - ⬆️ Update setuptools to v82 
 - Merge pull request #554 from dfigus/renovate/pin-dependencies
