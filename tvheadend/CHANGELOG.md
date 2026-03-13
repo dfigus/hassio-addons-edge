@@ -1,4 +1,7 @@
 # Changelog since v8.0.0
+- ⬆️ Update alpine_3_23/dotnet8-runtime to v8.0.25-r0 (#556)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to eb023c5 (#555)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
