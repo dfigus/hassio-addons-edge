@@ -1,4 +1,10 @@
 # Changelog since v8.0.0
+- ⬆️ Update tvheadend digest to 395afb8 (#559)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2026-03-29--01-14-10 (#563)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v20.0.2 (#561)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
