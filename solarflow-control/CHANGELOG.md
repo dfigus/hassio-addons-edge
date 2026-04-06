@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.0.0
+- Merge pull request #74 from dfigus/renovate/major-add-on-base-image
 
-## 🚨 Breaking changes
-
-- Drop armv7/armhf/i386 support due to HA 2025.12 deprecation @dfigus (#83)
+⬆️ Update Add-on base image to v18 (major) 
+- ⬆️ Update Add-on base image to v18 
