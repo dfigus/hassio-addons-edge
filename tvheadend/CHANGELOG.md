@@ -1,4 +1,7 @@
 # Changelog since v8.0.1
+- ⬆️ Update tvheadend digest to 37453bc (#566)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2026-04-04--20-35-31 (#565)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
