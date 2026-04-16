@@ -1,4 +1,10 @@
 # Changelog since v8.0.1
+- ⬆️ Update streamlink to v8.3.0 (#568)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2026-04-10--23-49-14 (#570)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages (#567)
 
 * ⬆️ Update Alpine packages
