@@ -1,4 +1,13 @@
 # Changelog since v8.0.1
+- ⬆️ Update Alpine packages (#567)
+
+* ⬆️ Update Alpine packages
+
+* ⬆️ Update Add-on base image to v20.0.4
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 37453bc (#566)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
