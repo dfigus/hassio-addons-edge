@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update Add-on base image to v20.1.0 (#569)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to 7cb0b87 (#572)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
