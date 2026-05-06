@@ -1,4 +1,10 @@
 # Changelog since v8.0.2
+- ⬆️ Update streamlink to v8.4.0 (#583)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Add-on base image to v20.1.1 (#582)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to e293365 (#581)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
