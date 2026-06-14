@@ -1,4 +1,10 @@
 # Changelog since v8.0.2
+- ⬆️ Update tvheadend digest to 677460d (#591)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2026-06-06--23-42-08 (#594)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages to v3.5.7-r0 (#592)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
