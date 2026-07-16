@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update alpine_3_23/curl to v8.20.0-r0 (#606)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2026-06-27--00-21-01 (#603)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
