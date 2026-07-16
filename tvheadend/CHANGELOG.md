@@ -1,4 +1,10 @@
 # Changelog since v8.0.2
+- ⬆️ Update tvheadend digest to d27ad88 (#605)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2026-07-11--19-41-40 (#607)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/curl to v8.20.0-r0 (#606)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
