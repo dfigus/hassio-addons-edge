@@ -1,4 +1,10 @@
 # Changelog since v8.0.2
+- ⬆️ Update tvheadend digest to 243e91c (#608)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r5 (#609)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tvheadend digest to d27ad88 (#605)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
