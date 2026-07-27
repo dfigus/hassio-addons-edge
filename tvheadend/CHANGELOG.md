@@ -1,4 +1,12 @@
 # Changelog since v8.0.2
+- Merge pull request #598 from dfigus/renovate/hassio-addons-workflows-3.x
+
+⬆️ Update hassio-addons/workflows action to v3 
+- Merge pull request #615 from dfigus/renovate/pypi-setuptools-vulnerability
+
+⬆️ Update setuptools to v83 [SECURITY] 
+- ⬆️ Update hassio-addons/workflows action to v3 
+- ⬆️ Update setuptools to v83 [SECURITY] 
 - ⬆️ Update picons/picons to v2026-07-26--00-04-05 (#618)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
