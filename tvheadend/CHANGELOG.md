@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update hassio-addons/workflows action to v3.0.1 (#627)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2026-08-22--21-35-08 (#629)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
