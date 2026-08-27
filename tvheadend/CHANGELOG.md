@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update alpine_3_23/openssl-dev to v3.5.8-r0 (#630)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update hassio-addons/workflows action to v3.0.1 (#627)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
