@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update picons/picons to v2026-08-30--00-56-05 (#631)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/openssl-dev to v3.5.8-r0 (#630)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
