@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update alpine_3_23/curl to v8.22.0-r0 (#633)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Alpine packages to v10.48-r0 (#632)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
