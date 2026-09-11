@@ -1,4 +1,10 @@
 # Changelog since v8.0.2
+- ⬆️ Update alpine_3_23/dotnet8-runtime to v8.0.31-r0 (#635)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2026-09-06--00-52-42 (#634)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/curl to v8.22.0-r0 (#633)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
