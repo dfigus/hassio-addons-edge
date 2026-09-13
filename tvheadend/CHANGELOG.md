@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update streamlink to v8.6.0 (#636)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/dotnet8-runtime to v8.0.31-r0 (#635)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
