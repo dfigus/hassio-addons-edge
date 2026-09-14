@@ -1,4 +1,8 @@
 # Changelog since v8.0.2
+- Merge pull request #638 from dfigus/reintroduce-release-drafter-workflow
+
+Re-introduce Release Drafter Workflow 
+- Re-introduce Release Drafter Workflow 
 - ⬆️ Update picons/picons to v2026-09-12--23-13-54 (#637)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
