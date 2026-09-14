@@ -1,4 +1,7 @@
 # Changelog since v8.0.2
+- ⬆️ Update picons/picons to v2026-09-12--23-13-54 (#637)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update streamlink to v8.6.0 (#636)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
