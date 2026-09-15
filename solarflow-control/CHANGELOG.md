@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.0.3
+- Merge pull request #89 from dfigus/renovate/major-add-on-base-image
 
-## 🐛 Bug fixes
-
-- Bump fork to v0.84 @dfigus (#88)
+⬆️ Update Add-on base image to v19 
+- ⬆️ Update Add-on base image to v19 
