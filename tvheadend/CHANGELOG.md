@@ -1,4 +1,7 @@
 # Changelog since v8.0.3
+- ⬆️ Update picons/picons to v2026-09-19--19-29-26 (#641)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #597 from dfigus/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v21 
