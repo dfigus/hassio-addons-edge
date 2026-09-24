@@ -1,4 +1,7 @@
 # Changelog since v8.0.3
+- ⬆️ Update perl APK package to v5.42.2-r1 (#642)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update streamlink to v8.6.1 (#640)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
