@@ -1,4 +1,7 @@
 # Changelog since v8.0.3
+- ⬆️ Update Alpine packages (#647)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update openssl-dev APK package to v3.5.9-r0 (#646)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
