@@ -1,4 +1,7 @@
 # Changelog since v8.0.3
+- ⬆️ Update dotnet8-runtime APK package to v8.0.32-r0 (#653)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2026-10-09--22-58-20 (#652)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
