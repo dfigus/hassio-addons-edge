@@ -1,4 +1,8 @@
 # Changelog since v8.0.3
+- Merge pull request #661 from dfigus/fix-spellcheck-issues
+
+Fix spellcheck issues 
+- Fix spellcheck issues 
 - ⬆️ Update streamlink to v8.6.3 (#659)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
