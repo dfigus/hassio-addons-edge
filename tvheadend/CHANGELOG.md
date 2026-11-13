@@ -1,4 +1,16 @@
 # Changelog since v8.0.3
+- ⬆️ Update streamlink to v8.6.3 (#659)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update musl-dev APK package to v1.2.6-r3 (#655)
+
+* ⬆️ Update Alpine packages
+
+* ⬆️ Update Add-on base image to v21.0.11
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2026-10-17--18-47-08 (#654)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
