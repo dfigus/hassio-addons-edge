@@ -1,15 +1,8 @@
-# Changelog since v1.0.3
-- ⬆️ Update Add-on base image to v20.0.1 (#92)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #91 from dfigus/renovate/major-add-on-base-image
+## ⬆️ Dependency updates
 
-⬆️ Update Add-on base image to v20 
-- ⬆️ Update Add-on base image to v20 
-- ⬆️ Update Add-on base image to v19.1.0 (#90)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #89 from dfigus/renovate/major-add-on-base-image
-
-⬆️ Update Add-on base image to v19 
-- ⬆️ Update Add-on base image to v19 
+- ⬆️ Update Add-on base image to v19 @[renovate[bot]](https://github.com/apps/renovate) (#89)
+- ⬆️ Update Add-on base image to v19.1.0 @[renovate[bot]](https://github.com/apps/renovate) (#90)
+- ⬆️ Update Add-on base image to v20 @[renovate[bot]](https://github.com/apps/renovate) (#91)
+- ⬆️ Update Add-on base image to v20.0.1 @[renovate[bot]](https://github.com/apps/renovate) (#92)
