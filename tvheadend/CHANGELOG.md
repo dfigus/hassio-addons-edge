@@ -1,4 +1,8 @@
 # Changelog since v8.0.3
+- Merge pull request #657 from dfigus/renovate/hassio-addons-workflows-5.x
+
+⬆️ Update hassio-addons/workflows action to v5 
+- ⬆️ Update hassio-addons/workflows action to v5 
 - Merge pull request #661 from dfigus/fix-spellcheck-issues
 
 Fix spellcheck issues 
