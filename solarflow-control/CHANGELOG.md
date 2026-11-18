@@ -1,8 +1,5 @@
-## What’s changed
+# Changelog since v1.0.4
+- Merge pull request #93 from dfigus/renovate/migrate-config
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update Add-on base image to v19 @[renovate[bot]](https://github.com/apps/renovate) (#89)
-- ⬆️ Update Add-on base image to v19.1.0 @[renovate[bot]](https://github.com/apps/renovate) (#90)
-- ⬆️ Update Add-on base image to v20 @[renovate[bot]](https://github.com/apps/renovate) (#91)
-- ⬆️ Update Add-on base image to v20.0.1 @[renovate[bot]](https://github.com/apps/renovate) (#92)
+⬆️: migrate Renovate config 
+- ⬆️: migrate config renovate.json 
