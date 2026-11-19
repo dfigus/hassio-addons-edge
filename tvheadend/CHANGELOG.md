@@ -1,4 +1,10 @@
 # Changelog since v8.0.3
+- ⬆️ Update openssl-dev APK package to v3.5.9-r1 (#666)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update picons/picons to v2026-11-15--01-58-52 (#663)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nginx APK package to v1.30.7-r0 (#665)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
