@@ -1,97 +1,35 @@
-# Changelog since v8.0.3
-- ⬆️ Update openssl-dev APK package to v3.5.9-r1 (#666)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update picons/picons to v2026-11-15--01-58-52 (#663)
+## 🧰 Maintenance
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update nginx APK package to v1.30.7-r0 (#665)
+- Switch Renovate from repology to apk datasource @dfigus (#639)
+- Fix spellcheck issues @dfigus (#661)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update setuptools to v84.2.1 (#662)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #660 from dfigus/renovate/pypi-setuptools-vulnerability
-
-⬆️ Update setuptools to v84 [SECURITY] 
-- ⬆️ Update picons/picons to v2026-11-07--19-45-53 (#658)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update setuptools to v84 [SECURITY] 
-- Merge pull request #657 from dfigus/renovate/hassio-addons-workflows-5.x
-
-⬆️ Update hassio-addons/workflows action to v5 
-- ⬆️ Update hassio-addons/workflows action to v5 
-- Merge pull request #661 from dfigus/fix-spellcheck-issues
-
-Fix spellcheck issues 
-- Fix spellcheck issues 
-- ⬆️ Update streamlink to v8.6.3 (#659)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update musl-dev APK package to v1.2.6-r3 (#655)
-
-* ⬆️ Update Alpine packages
-
-* ⬆️ Update Add-on base image to v21.0.11
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update picons/picons to v2026-10-17--18-47-08 (#654)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update dotnet8-runtime APK package to v8.0.32-r0 (#653)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update picons/picons to v2026-10-09--22-58-20 (#652)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update streamlink to v8.6.2 (#651)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v21.0.8 (#650)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Alpine packages to v1.3.2-r1 (#649)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update picons/picons to v2026-10-03--22-52-25 (#648)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Alpine packages (#647)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update openssl-dev APK package to v3.5.9-r0 (#646)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v21.0.7 (#645)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update picons/picons to v2026-09-27--00-00-30 (#644)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v21.0.6 (#643)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update perl APK package to v5.42.2-r1 (#642)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update streamlink to v8.6.1 (#640)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update picons/picons to v2026-09-19--19-29-26 (#641)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #597 from dfigus/renovate/major-add-on-base-image
-
-⬆️ Update Add-on base image to v21 
-- Update Devcontainer Configuration 
-- Update alpine packages for 3.24 
-- Update builder to use Alpine 3.24 
-- Update Alpine release for Renovate 
-- ⬆️ Update Add-on base image to v21 
-- Merge pull request #639 from dfigus/use-renovate-apk-datasource
-
-Switch Renovate from repology to apk datasource 
-- Switch Renovate from repology to apk datasource 
+- ⬆️ Update Add-on base image to v21 @[renovate[bot]](https://github.com/apps/renovate) (#597)
+- ⬆️ Update picons/picons to v2026-09-19--19-29-26 @[renovate[bot]](https://github.com/apps/renovate) (#641)
+- ⬆️ Update streamlink to v8.6.1 @[renovate[bot]](https://github.com/apps/renovate) (#640)
+- ⬆️ Update perl APK package to v5.42.2-r1 @[renovate[bot]](https://github.com/apps/renovate) (#642)
+- ⬆️ Update Add-on base image to v21.0.6 @[renovate[bot]](https://github.com/apps/renovate) (#643)
+- ⬆️ Update picons/picons to v2026-09-27--00-00-30 @[renovate[bot]](https://github.com/apps/renovate) (#644)
+- ⬆️ Update Add-on base image to v21.0.7 @[renovate[bot]](https://github.com/apps/renovate) (#645)
+- ⬆️ Update openssl-dev APK package to v3.5.9-r0 @[renovate[bot]](https://github.com/apps/renovate) (#646)
+- ⬆️ Update Alpine packages @[renovate[bot]](https://github.com/apps/renovate) (#647)
+- ⬆️ Update picons/picons to v2026-10-03--22-52-25 @[renovate[bot]](https://github.com/apps/renovate) (#648)
+- ⬆️ Update Alpine packages to v1.3.2-r1 @[renovate[bot]](https://github.com/apps/renovate) (#649)
+- ⬆️ Update Add-on base image to v21.0.8 @[renovate[bot]](https://github.com/apps/renovate) (#650)
+- ⬆️ Update streamlink to v8.6.2 @[renovate[bot]](https://github.com/apps/renovate) (#651)
+- ⬆️ Update picons/picons to v2026-10-09--22-58-20 @[renovate[bot]](https://github.com/apps/renovate) (#652)
+- ⬆️ Update dotnet8-runtime APK package to v8.0.32-r0 @[renovate[bot]](https://github.com/apps/renovate) (#653)
+- ⬆️ Update picons/picons to v2026-10-17--18-47-08 @[renovate[bot]](https://github.com/apps/renovate) (#654)
+- ⬆️ Update Alpine packages @[renovate[bot]](https://github.com/apps/renovate) (#655)
+- ⬆️ Update streamlink to v8.6.3 @[renovate[bot]](https://github.com/apps/renovate) (#659)
+- ⬆️ Update hassio-addons/workflows action to v5 @[renovate[bot]](https://github.com/apps/renovate) (#657)
+- ⬆️ Update picons/picons to v2026-11-07--19-45-53 @[renovate[bot]](https://github.com/apps/renovate) (#658)
+- ⬆️ Update setuptools to v84 [SECURITY] @[renovate[bot]](https://github.com/apps/renovate) (#660)
+- ⬆️ Update setuptools to v84.2.1 @[renovate[bot]](https://github.com/apps/renovate) (#662)
+- ⬆️ Update nginx APK package to v1.30.7-r0 @[renovate[bot]](https://github.com/apps/renovate) (#665)
+- ⬆️ Update picons/picons to v2026-11-15--01-58-52 @[renovate[bot]](https://github.com/apps/renovate) (#663)
+- ⬆️ Update openssl-dev APK package to v3.5.9-r1 @[renovate[bot]](https://github.com/apps/renovate) (#666)
+- ⬆️: migrate Renovate config @[renovate[bot]](https://github.com/apps/renovate) (#664)
