@@ -1,4 +1,7 @@
 # Changelog since v8.0.4
+- ⬆️ Update Alpine packages to v3.14.10-r2 (#671)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update picons/picons to v2026-11-21--01-40-43 (#670)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
