@@ -1,4 +1,7 @@
 # Changelog since v8.0.4
+- ⬆️ Update nginx APK package to v1.30.8-r0 (#673)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v21.0.12 (#672)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
